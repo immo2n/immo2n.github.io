@@ -1,0 +1,193 @@
+html {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    overflow: hidden;
+    background: hsla(0, 0%, 0%, 1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: radial-gradient(top, circle cover, hsla(330, 90%, 15%, 1) 20%, hsla(0, 0%, 0%, 1) 80%);
+}
+
+@keyframes diamond {
+    0% {
+        transform: rotate(45deg) scale(0);
+    }
+
+    50% {
+        transform: rotate(45deg) scale(10);
+    }
+
+    100% {
+        transform: rotate(45deg) scale(0);
+    }
+}
+
+@keyframes vertical {
+    0% {
+        transform: scaleX(0);
+    }
+
+    50% {
+        transform: scaleX(10);
+    }
+
+    100% {
+        transform: scaleX(0);
+    }
+}
+
+@keyframes vertical_r {
+    0% {
+        transform: scaleX(0);
+    }
+
+    50% {
+        transform: scaleX(-10);
+    }
+
+    100% {
+        transform: scaleX(0);
+    }
+}
+
+@keyframes horizontal {
+    0% {
+        transform: scaleY(0);
+    }
+
+    50% {
+        transform: scaleY(10);
+    }
+
+    100% {
+        transform: scaleY(0);
+    }
+}
+
+body,
+.space {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+#space span {
+    position: absolute;
+    z-index: 1;
+}
+
+.c-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body a,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+select,
+textarea {
+    font-family: "Space Mono", monospace;
+}
+
+header {
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #312d5d;
+}
+
+.max-w {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.header-buttons button {
+    border: 1px solid #f1f1f1;
+    margin: 0 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #312d5d;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.hero {
+    cursor: grab;
+    width: 100%;
+    color: #ffffff;
+}
+
+.hero .main {
+    font-weight: 700;
+    font-size: 55px;
+}
+
+.hero .main sup {
+    font-size: 30px;
+}
+
+.hero .sub {
+    font-size: 20px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.hero .photo {
+    position: relative;
+    z-index: 1000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hero .photo img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+
+.hero .photo img:hover {
+    transform: scale(0.95);
+    filter: drop-shadow(0 0 0.8rem #ffffff);
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.gh-logo {
+    background-color: #ffffff;
+    border-radius: 50%;
+    scale: 0.7;
+}
+
+.header-buttons .active {
+    background-color: #ffffff;
+    color: #312d5d;
+    filter: drop-shadow(0 0 0.8rem #ffffff);
+}
+
+.header-buttons button:hover {
+    filter: drop-shadow(0 0 0.8rem #ffffff);
+}
+
+.anim_diamond {
+    animation: diamond 1s infinite;
+}
+
+@media screen and (max-width: 600px) {}
