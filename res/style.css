@@ -106,10 +106,11 @@ textarea {
 
 header {
     position: sticky;
-    z-index: 1000;
+    z-index: 1001;
     padding: 10px;
     margin: 15px;
     margin-top: 10px;
+    margin-bottom: 0px;
     border-radius: 10px;
     height: 50px;
     color: #ffffff;
@@ -131,12 +132,18 @@ header {
     cursor: pointer;
 }
 
+.tab-center {
+    margin-top: -80px;
+    flex-direction: column;
+    height: 100vh;
+}
+
 .hero {
     cursor: grab;
     width: 100%;
     color: #ffffff;
     height: 100vh;
-    animation: fadeInUp;
+    animation: jackInTheBox;
     animation-duration: .8s;
 }
 
@@ -267,11 +274,13 @@ a {
 }
 
 .skil-table {
+    padding-top: 30px;
     align-self: center;
     justify-content: center;
     margin: 0 15px 0 15px;
     display: grid;
     grid-template-columns: 50% 50%;
+    width: 100%;
 }
 
 .learning {
@@ -279,9 +288,16 @@ a {
     animation-duration: .5s;
     width: 100%;
     color: #ffffff;
-    margin-top: 10px;
-    font-size: 40px;
+    font-size: 17px;
     font-weight: bold;
+}
+
+#pagination {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    color: #ffff;
+    text-align: center;
 }
 
 @media screen and (max-width: 600px) {}
