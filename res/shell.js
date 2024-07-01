@@ -1,12 +1,12 @@
 const commandHistory = [];
 let historyIndex = -1;
 
-const shell = (cmd, shellLocation, stdOut, shellField) => {
+const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
     if (cmd.trim() !== "") {
         commandHistory.push(cmd);
         historyIndex = commandHistory.length;
     }
-
+    
     async function getFileSize(url) {
         try {
             const response = await fetch(url);
@@ -83,6 +83,7 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
                 setTimeout(() => {
                     if (eval('typeof ' + leader) !== 'undefined') {
                         stdOut.append(`<div class="green">Installed package: ${name}</div>`);
+                        if (null != callback) callback();
                         let old = localStorage.getItem('packages');
                         try {
                             if (old) {
@@ -170,6 +171,26 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
                     stdOut.append(`<div>apt: package list failed to load!</div>`);
                 }
             }
+            else if (args[0] === "list") {
+                if (args[1] === "--installed") {
+                    let old = localStorage.getItem('packages');
+                    try {
+                        old = JSON.parse(old);
+                        if (old.length == 0) {
+                            stdOut.append(`<div>apt list: no external packages!</div>`);
+                        }
+                        old.forEach(element => {
+                            stdOut.append(`<div>${element}</div>`);
+                        })
+                    }
+                    catch (e) {
+                        stdOut.append(`<div>apt list: no external packages!</div>`);
+                    }
+                }
+                else {
+                    stdOut.append(`<div>apt list: invalid argument ${args[1]}</div>`);
+                }
+            }
             else {
                 stdOut.append(`<div>apt: invalid argument ${args[0]}</div>`);
             }
@@ -178,16 +199,18 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
             stdOut.html("");
             break;
         case "help":
+            stdOut.append("<div>apt - install, uninstall or list external packages</div>");
+            stdOut.append("<div>apt list - list external packages, --installed: Installed packages</div>");
+            stdOut.append("<div>cd [directory] - change directory</div>");
             stdOut.append("<div>clear - clear the screen</div>");
+            stdOut.append("<div>exit - exit the shell</div>");
             stdOut.append("<div>help - show this help message</div>");
             stdOut.append("<div>ls - list files in the current directory</div>");
-            stdOut.append("<div>pwd - show current directory path</div>");
-            stdOut.append("<div>cd [directory] - change directory</div>");
-            stdOut.append("<div>rm [file] - remove file</div>");
             stdOut.append("<div>nano [file] - open file</div>");
             stdOut.append("<div>ping [host] - ping host</div>");
-            stdOut.append("<div>exit - exit the shell</div>");
+            stdOut.append("<div>pwd - show current directory path</div>");
             stdOut.append("<div>restart - restart the shell</div>");
+            stdOut.append("<div>rm [file] - remove file</div>");
             break;
         case "ls":
             if (currentDir === resDir) {
