@@ -41,7 +41,7 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
     const isRoot = currentDir === rootDir;
 
     const availableCommands = ["clear", "help", "ls", "pwd", "cd", "rm", "nano", "ping", "exit", "restart"];
-    if(isRoot){
+    if (isRoot) {
         availableCommands.push("./contact");
         availableCommands.push("./about");
         availableCommands.push("./projects");
@@ -55,43 +55,43 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
         return suggestions.length > 0 ? suggestions : null;
     }
 
-    async function install(url, type, name, leader){
-        if(!url || !type || !name || !leader){
+    async function install(url, type, name, leader) {
+        if (!url || !type || !name || !leader) {
             stdOut.append(`<div class="red">Error! Package installer is unsatisfied. Use apt install instead!</div>`);
         }
-        if(eval('typeof '+leader) !== 'undefined'){
+        if (eval('typeof ' + leader) !== 'undefined') {
             stdOut.append(`<div>Package ${name} is already satisfied in this location.</div>`);
             return;
         }
         stdOut.append(`<div><font color="lime"><b>[FETCH]</b></font> Fetching script:${type}-> ${url}</div>`);
-        if(type === 'js'){
+        if (type === 'js') {
             const js = document.createElement('script');
             js.src = url;
             document.head.appendChild(js);
-            js.onerror = ()=> {
+            js.onerror = () => {
                 stdOut.append(`<div><font color="red"><b>[ERROR]</b></font> Failed to fetch: ${url}</div>`);
             }
             const size = await getFileSize(url);
             stdOut.append(`<div>Fetched successfully(${url})...${formatBytes(size)}</div>`);
             stdOut.append(`<div>Installing... ${url}</div>`);
-            if(size == 0){
+            if (size == 0) {
                 stdOut.append(`<div class="red">Failed to install package: ${name}. Unusual package size!</div>`);
                 return;
             }
             let tries = 0;
-            function check(){
-                setTimeout(()=> {
-                    if(eval('typeof '+leader) !== 'undefined'){
+            function check() {
+                setTimeout(() => {
+                    if (eval('typeof ' + leader) !== 'undefined') {
                         stdOut.append(`<div class="green">Installed package: ${name}</div>`);
                         let old = localStorage.getItem('packages');
                         try {
-                            if(old){
+                            if (old) {
                                 old = JSON.parse(old);
                             }
                             else {
                                 old = [];
                             }
-                            if(typeof old !== 'object' || old.indexOf(name) > -1) return;
+                            if (typeof old !== 'object' || old.indexOf(name) > -1) return;
                             old.push(name);
                             old = JSON.stringify(old);
                             localStorage.setItem('packages', old);
@@ -105,7 +105,7 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
                         check();
                     }
                     tries++;
-                    if(tries > 600){
+                    if (tries > 600) {
                         stdOut.append(`<div class="red">Failed to install package: ${name}. Could not probe! Maybe installed? run: ${name}</div>`);
                         return;
                     }
@@ -117,29 +117,61 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
 
     switch (command) {
         case "python":
-            if(typeof pyscript == 'undefined'){
+            if (typeof pyscript == 'undefined') {
                 stdOut.append("<div>python: command not found</div>");
                 stdOut.append("Do you want to install python? run: apt install python");
             }
             else {
-                
+
             }
             break;
         case "apt":
-            if (args.length < 2){
+            if (args.length < 2) {
                 stdOut.append("<div>apt: missing argument [command] [package]</div>");
                 break;
             }
-            if(args[0] === "install"){
+            if (args[0] === "install") {
                 stdOut.append(`<div>apt: installing package ${args[1]}</div>`);
-                switch(args[1]){
+                switch (args[1]) {
                     case "python":
                         stdOut.append(`<div>apt: getting package ${args[1]}</div>`);
                         install('/packages/python.js', 'js', "python", 'pyscript')
-                    break;
+                        break;
                     default:
                         stdOut.append(`<div>apt: package ${args[1]} not found</div>`);
                 }
+            }
+            else if (args[0] === "uninstall") {
+                let old = localStorage.getItem('packages');
+                try {
+                    if (old) {
+                        old = JSON.parse(old);
+                        if (old.length == 0) {
+                            stdOut.append(`<div>apt: no external packages found!</div>`);
+                        }
+                        else {
+                            if (old.indexOf(args[1]) == -1) {
+                                stdOut.append(`<div>apt: package ${args[1]} is not found!</div>`);
+                            }
+                            else {
+                                old = old.filter(item => item !== args[1]);
+                                old = JSON.stringify(old);
+                                localStorage.setItem('packages', old);
+                                stdOut.append(`<div>apt: uninstalled package ${args[1]}</div>`);
+                                stdOut.append('<div class="blue">[INFO] Packages maybe are still loaded in the environment. Please restart. run: restart</div>');
+                            }
+                        }
+                    }
+                    else {
+                        stdOut.append(`<div>apt: no external packages found!</div>`);
+                    }
+                }
+                catch (e) {
+                    stdOut.append(`<div>apt: package list failed to load!</div>`);
+                }
+            }
+            else {
+                stdOut.append(`<div>apt: invalid argument ${args[0]}</div>`);
             }
             break;
         case "clear":
@@ -278,7 +310,7 @@ const shell = (cmd, shellLocation, stdOut, shellField) => {
         default:
             stdOut.append(`<div>${command}: command not found</div>`);
             const suggestions = getSuggestions(command);
-            if(null != suggestions) stdOut.append(`<div>Did you mean: ${suggestions.join(', ')}</div>`);
+            if (null != suggestions) stdOut.append(`<div>Did you mean: ${suggestions.join(', ')}</div>`);
             break;
     }
 };
