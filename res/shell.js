@@ -6,7 +6,7 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
         commandHistory.push(cmd);
         historyIndex = commandHistory.length;
     }
-    
+
     async function getFileSize(url) {
         try {
             const response = await fetch(url);
@@ -117,6 +117,67 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
     }
 
     switch (command) {
+        case "./about":
+            bash("clear", null);
+            stdOut.append(`
+                <style>
+                .c_1 {
+                    display:flex;
+                    justify-content:center;
+                    align-items:center;
+                    flex-direction: column;
+                    text-align: center
+                } </style>
+                <div class="c_1" style="margin-bottom:10px">
+                <div>
+                    <span style="color:lime"><b>About</b></span>
+                    <a href="#" class="green">Skills</a>
+                    <a href="#" class="green">Education</a>
+                    <a href="#" class="green">Projects</a>
+                    <a href="#" class="green">Contact</a>
+                </div>
+                <img src="/img/immo2n.png" alt="image: immo2n.png" height="250px" width="250px"/>
+                <h2 style="color:lime"> Md. Monoarul Islam Moon</h2>
+                <div style="margin-bottom:15px">Software Engineer, Programmer and Freelancer</div>
+                <div style="margin-bottom:15px">
+                    <a href="https://www.github.com/immo2n" target="_blank" class="blue">Github</a>
+                    <a href="https://www.linkedin.com/in/immo2n/" target="_blank" class="blue">LinkedIn</a>
+                    <a href="https://www.facebook.com/immo2n" target="_blank" class="blue">Facebook</a>
+                    <a href="mailto:immo2n.work@gmail.com" class="blue">Email</a>
+                    <div style="margin-top:20px">
+                    handle everywhere: @immo2n
+                    </div>
+                    <div style="margin-top:20px">
+                    I am doing JavaScript, SQL & PHP for 4 Years. Java & C for 2 years.
+                    <br/>Shipping android apps and modern web apps!
+                    <br/>- Studying Software Engineering at <a href="https://daffodilvarsity.edu.bd/" target="_blank" style="color:lime">DIU</a>.
+                    </div>
+                </div>
+                </div>`);
+        break;
+        case "whoami":
+            var userAgent = navigator.userAgent;
+            var browserName;
+            if (userAgent.indexOf("Firefox") > -1) {
+                browserName = "Mozilla Firefox";
+            } else if (userAgent.indexOf("SamsungBrowser") > -1) {
+                browserName = "Samsung Internet";
+            } else if (userAgent.indexOf("Opera") > -1 || userAgent.indexOf("OPR") > -1) {
+                browserName = "Opera";
+            } else if (userAgent.indexOf("Trident") > -1) {
+                browserName = "Microsoft Internet Explorer";
+            } else if (userAgent.indexOf("Edge") > -1) {
+                browserName = "Microsoft Edge";
+            } else if (userAgent.indexOf("Chrome") > -1) {
+                browserName = "Google Chrome";
+            } else if (userAgent.indexOf("Safari") > -1) {
+                browserName = "Safari";
+            } else {
+                browserName = "Unknown";
+            }
+            if(!browserName) stdOut.append("<div>this</div>");
+            else stdOut.append(`<div>${browserName} (this)</div>`);
+            break;
         case "python":
             if (typeof pyscript == 'undefined') {
                 stdOut.append("<div>python: command not found</div>");
@@ -211,6 +272,7 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
             stdOut.append("<div>pwd - show current directory path</div>");
             stdOut.append("<div>restart - restart the shell</div>");
             stdOut.append("<div>rm [file] - remove file</div>");
+            stdOut.append("<div>whoami - show current user's name</div>");
             break;
         case "ls":
             if (currentDir === resDir) {
@@ -267,9 +329,6 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
                     stdOut.append(`<div>nano: ${fileName}: No such file</div>`);
                 }
             }
-            break;
-            stdOut.append("<div>Email: contact@immo2n.com</div>");
-            stdOut.append("<div>LinkedIn: linkedin.com/in/immo2n</div>");
             break;
         case "ping":
             let count = 1;
@@ -336,6 +395,7 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
             if (null != suggestions) stdOut.append(`<div>Did you mean: ${suggestions.join(', ')}</div>`);
             break;
     }
+
 };
 
 $(document).ready(() => {

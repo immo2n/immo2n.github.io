@@ -9,13 +9,11 @@ body {
     font-family: 'Ubuntu Mono', monospace;
     display: flex;
     flex-direction: column;
-    margin-left: 20px;
 }
 .content {
     flex: 1;
     overflow-y: auto;
-    padding: 20px;
-    padding-left: 0px;
+    padding: 20px
 }
 .prompt {
     color: #4caf50;
@@ -37,12 +35,13 @@ body {
     outline: none;
     border-top: none;
     padding-left: 7px;
+    width: 100%;
 }
 .green {
     color: #4caf50;
 }
 .blue {
-    color: #1976d2;
+    color: #348fea;
 }
 .yellow {
     color: #ffc107;
@@ -52,4 +51,7 @@ body {
 }
 .red {
     color: #f44336;
+}
+#main {
+    word-break: break-word;
 }
