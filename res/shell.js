@@ -75,8 +75,8 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
             stdOut.append(`<div>Fetched successfully(${url})...${formatBytes(size)}</div>`);
             stdOut.append(`<div>Installing... ${url}</div>`);
             if (size == 0) {
-                stdOut.append(`<div class="red">Failed to install package: ${name}. Unusual package size!</div>`);
-                return;
+                stdOut.append(`<div><font color="blue"><b>[WARNING]</b></font>Potential failure to install package: ${name}. Unusual package size!</div>`);
+                stdOut.append(`<div><font color="blue"><b>[WARNING]</b></font>Potential failure to install package: ${name}. Still checking for leader...</div>`);
             }
             let tries = 0;
             function check() {
