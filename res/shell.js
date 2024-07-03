@@ -117,7 +117,7 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
     }
 
     switch (command) {
-        case "./about":
+        case "./education":
             bash("clear", null);
             stdOut.append(`
                 <style>
@@ -130,14 +130,205 @@ const shell = (cmd, shellLocation, stdOut, shellField, callback) => {
                 } </style>
                 <div class="c_1" style="margin-bottom:10px">
                 <div>
-                    <span style="color:lime"><b>About</b></span>
-                    <a href="#" class="green">Skills</a>
-                    <a href="#" class="green">Education</a>
+                    <a href="#" class="green" onclick="bash('./about', null)">About</a>
+                    <a href="#" class="green" onclick="bash('./skills', null)">Skills</a>
+                    <span style="color:lime"><b>Education</b></span>
                     <a href="#" class="green">Projects</a>
                     <a href="#" class="green">Contact</a>
                 </div>
-                <img src="/img/immo2n.png" alt="image: immo2n.png" height="250px" width="250px"/>
-                <h2 style="color:lime"> Md. Monoarul Islam Moon</h2>
+                <h2 style="color:lime">Education</h2>
+                <div style="margin-bottom:15px">I am studying what I love: Software Engineering.</div>
+
+                <div style="margin-bottom:15px">
+                    <h3 style="color: lime">
+                    B.Sc. in Software Engineering
+                    </h3>
+                    <div class="c_1">
+                        🏫 Daffodil International University, Savar, Dhaka, Bangladesh
+                        <br/> ⌚ Spring 2023 - Present
+<pre>
++----------------------------------------------------------+
+|                 University Achievements                  |
++----------------------------------------------------------+
+| SCGPA 4 in Spring 2023          <a href="/res/spring2023Result.pdf" target="_blank" class="executable">[Open PDF](#spring_2023)</a> |
+| SCGPA 4 in Fall 2023            <a href="/res/fall2023Result.pdf" target="_blank" class="executable">[Open PDF](#fall_2023)</a>   |
+| Dean's List Award - Fall 2023   <a href="/res/deansListFall23.pdf" target="_blank" class="executable">[Open PDF](#deans_list)</a>  |
+| SCGPA 4 in Spring 2024          <a href="#" onclick="alert('immo2n: PDF will be available soon!')" class="blue">[Open PDF](#spring_2024)</a> |
++----------------------------------------------------------+
+</pre>
+                    </div>
+
+                    <h3 style="color: lime; margin-top: 10px;">
+                    HSC in Science
+                    </h3>
+                    <div class="c_1">
+                        🏫 Dinajpur Government College, Dinajpur, Rangpur, Bangladesh
+                        <br/> ⌚ 2019 - 2021
+<pre>
++----------------------------------------------------------+
+|                 College Achievements                     |
++----------------------------------------------------------+
+| HSC: GPA 5.00 <span title="Golden: GPA 5.00 in every subject including fourth.">G</span> in 2021 - Science Group (Dinajpur)       |
++----------------------------------------------------------+
+                    </div>
+
+                    <h3 style="color: lime; margin-top: 0;">
+                    JSC and SSC in Science
+                    </h3>
+                    <div class="c_1">
+                        🏫 Setabgonj Ideal Academy, Setabgonj, Dinajpur, Bangladesh
+                        <br/> Elementary - 2019
+<pre>
++----------------------------------------------------------+
+|                 High School Achievements                 |
++----------------------------------------------------------+
+| SSC: GPA 5.00 <span title="Golden: GPA 5.00 in every subject including fourth.">G</span> in 2021 - Science Group (Dinajpur        |
+| JSC: GPA 5.00 <span title="Golden GPA 5.00 in every subject including fourth.">G</span> in 2021 - Science Group (Dinajpur)       |
++----------------------------------------------------------+
+</pre>
+                </div>
+
+                <div style="margin-bottom:15px; margin-top: 10px;">
+                    <span style="color:lime"><b>And my father who taught me Mathematics and Physics.</b></span>
+                </div>
+                
+                </div>
+            `);
+            break;
+        case "./skills":
+            bash("clear", null);
+            stdOut.append(`
+                <style>
+                .c_1 {
+                    display:flex;
+                    justify-content:center;
+                    align-items:center;
+                    flex-direction: column;
+                    text-align: center
+                } </style>
+                <div class="c_1" style="margin-bottom:10px">
+                <div>
+                    <a href="#" class="green" onclick="bash('./about', null)">About</a>
+                    <span style="color:lime"><b>Skills</b></span>
+                    <a href="#" class="green" onclick="bash('./education', null)">Education</a>
+                    <a href="#" class="green">Projects</a>
+                    <a href="#" class="green">Contact</a>
+                </div>
+                <h2 style="color:lime">Skills</h2>
+                <div style="margin-bottom:15px">I am good at developing things, whether it's a native android app, web app or anything else.</div><pre style="margin-bottom:15px">Languages
++----+------------+------------+
+| SL | Language   | Experience |
++----+------------+------------+
+| 1  | JavaScript | 3   Years  |
+| 2  | PHP        | 3   Years  |
+| 3  | SQL        | 3   Years  |
+| 4  | Java       | 2   Years  |
+| 5  | C          | 2.5 Years  |
+| 6  | CSS        | 3   Years  |
+| 7  | Firebase   | 1   Years  |
++----+------------+------------+
+OS: Linux(Arch, RHL), Windows</pre>
+                <div style="margin-bottom:15px">⭐ My strongest skill is learning through hands-on experience, enabling me to achieve limitless aspirations.</div>
+                <pre>    /$$$$$                              
+   |__  $$                              
+      | $$  /$$$$$$  /$$    /$$ /$$$$$$ 
+      | $$ |____  $$|  $$  /$$/|____  $$
+ /$$  | $$  /$$$$$$$ \  $$/$$/  /$$$$$$$
+| $$  | $$ /$$__  $$  \  $$$/  /$$__  $$
+|  $$$$$$/|  $$$$$$$   \  $/  |  $$$$$$$
+ \______/  \_______/    \_/    \_______/</pre>
+                <div style="margin-bottom:15px">I learned Java for freelancing and developed many successful Android(native) and Swing desktop apps. Some are listed in the Projects section.</div>
+
+<pre style="font-size:30px">
+        /     
+   _   /_  _  
+  /_)_/ /_/_)_
+ /       /    
+'       '     
+</pre>
+                <div style="margin-bottom:15px">I don't usually boast about PHP, but it was my first server language. I've done extensive native PHP coding and frequently use Composer. And honestly, \`php -S localhost:3000\` is a fast and handy local server!</div>
+
+<pre style="font-size:small">
+8888888b.           888    888                       
+888   Y88b          888    888                       
+888    888          888    888                       
+888   d88P 888  888 888888 88888b.   .d88b.  88888b. 
+8888888P"  888  888 888    888 "88b d88""88b 888 "88b
+888        888  888 888    888  888 888  888 888  888
+888        Y88b 888 Y88b.  888  888 Y88..88P 888  888
+888         "Y88888  "Y888 888  888  "Y88P"  888  888
+                888                                  
+           Y8b d88P                                  
+            "Y88P"                                   
+</pre>
+                <div style="margin-bottom:15px">I love Python for its simplicity and the wealth of revolutionary libraries it offers. It's my go-to language in the Linux terminal, making it indispensable to learn.</div>
+
+<pre style="font-size:small">
+  888888  .d8888b. 
+    "88b d88P  Y88b
+     888 Y88b.     
+     888  "Y888b.  
+     888     "Y88b.
+     888       "888
+     88P Y88b  d88P
+     888  "Y8888P" 
+   .d88P           
+ .d88P"            
+888P"              
+</pre>
+
+                <div style="margin-bottom:15px">What can I say about JavaScript? It's the GOAT of languages, with millions of libraries and thousands of frameworks just to ship HTML! I love jQuery still—sue me.</div>
+
+<pre>
+ ██████╗
+██╔════╝
+██║     
+██║     
+╚██████╗
+ ╚═════╝
+</pre>
+                
+                <div style="margin-bottom:15px">I am proud to program in C. I love its straightforwardness, versatility, and efficiency. I've created complex CLI projects for my university and often use C for basic tasks.</div>
+                
+                <div style="margin-bottom:15px">
+                <i>
+                As a developer more than a programmer, I'm skilled in languages like CSS, HTML (if you consider it one), XML (Java), and SQL, as well as tools like Firebase, NPM, Maven, Composer, and RHL.
+                These tools are indispensable to me, and I love working with them.
+                </i>
+                </div>
+                
+                <div style="margin-bottom:15px">
+                    <span style="color:lime"><b>And learning...</b></span>
+                </div>
+                
+                </div>`);
+            break;
+        case "./about":
+            bash("clear", null);
+            stdOut.append(`
+                <style>
+                .pro_pic {
+                    border-radius: 50%;
+                    padding: 20px;
+                    margin-top: 20px
+                }
+                .c_1 {
+                    display:flex;
+                    justify-content:center;
+                    align-items:center;
+                    flex-direction: column;
+                    text-align: center
+                } </style>
+                <div class="c_1" style="margin-bottom:10px">
+                <div>
+                    <span style="color:lime"><b>About</b></span>
+                    <a href="#" class="green" onclick="bash('./skills', null)">Skills</a>
+                    <a href="#" class="green" onclick="bash('./education', null)">Education</a>
+                    <a href="#" class="green">Projects</a>
+                    <a href="#" class="green">Contact</a>
+                </div>
+                <img class="pro_pic" src="/img/immo2n.jpg" alt="image: immo2n.jpg" height="200px" width="200px"/>
+                <h2 style="color:lime">Md. Monoarul Islam Moon</h2>
                 <div style="margin-bottom:15px">Software Engineer, Programmer and Freelancer</div>
                 <div style="margin-bottom:15px">
                     <a href="https://www.github.com/immo2n" target="_blank" class="blue">Github</a>
