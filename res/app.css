@@ -37,6 +37,11 @@ body {
     padding-left: 7px;
     width: 100%;
 }
+@media (max-width: 600px) {
+    .input-line input {
+        padding: 10px;
+    }
+}
 .green {
     color: #4caf50;
 }
