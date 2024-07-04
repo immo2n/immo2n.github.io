@@ -3,6 +3,7 @@ const app = ()=> {
         setTimeout(() => {
             app();
         }, 200);
+        return;
     }
     $(document).ready(()=> {
         $(".shell-input").on("keypress", (e)=> {
