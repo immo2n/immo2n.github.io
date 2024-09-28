@@ -1,1 +1,1617 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300");h1{transition-duration:.8s;}#saturn [class~=ring]:after{border-radius:50%;}h1{transition-timing-function:ease-in-out;}a{border-left-width:0;}a{border-bottom-width:0;}#solar-system,#saturn [class~=ring]:after,#universe,[class~=orbit]{position:absolute;}a{border-right-width:0;}a{border-top-width:0;}a{border-left-style:none;}a{border-bottom-style:none;}a{border-right-style:none;}a{border-top-style:none;}a{border-left-color:currentColor;}a{border-bottom-color:currentColor;}a{border-right-color:currentColor;}a{border-top-color:currentColor;}a{border-image:none;}a{font-size:100%;}a{font:inherit;}a,abbr{vertical-align:baseline;}a,abbr{margin-left:0;}abbr,a{margin-bottom:0;}abbr,a{margin-right:0;}abbr,a{margin-top:0;}abbr,a{padding-left:0;}abbr,a{padding-bottom:0;}abbr,a{padding-right:0;}abbr,a{padding-top:0;}abbr{border-left-width:0;}abbr{border-bottom-width:0;}abbr{border-right-width:0;}abbr{border-top-width:0;}abbr{border-left-style:none;}abbr{border-bottom-style:none;}abbr{border-right-style:none;}abbr{border-top-style:none;}abbr{border-left-color:currentColor;}abbr{border-bottom-color:currentColor;}abbr{border-right-color:currentColor;}abbr{border-top-color:currentColor;}abbr{border-image:none;}abbr{font-size:100%;}abbr{font:inherit;}[class~=orbit],[class~=pos],#earth [class~=moon],[class~=planet]{transform-style:preserve-3d;}#galaxy{width:100%;}#saturn [class~=ring]:after{content:"";}acronym{border-left-width:0;}acronym{border-bottom-width:0;}acronym{border-right-width:0;}acronym{border-top-width:0;}acronym{border-left-style:none;}acronym{border-bottom-style:none;}acronym{border-right-style:none;}acronym{border-top-style:none;}acronym{border-left-color:currentColor;}acronym{border-bottom-color:currentColor;}acronym{border-right-color:currentColor;}acronym{border-top-color:currentColor;}acronym{border-image:none;}#galaxy{height:100%;}acronym{font-size:100%;}acronym{font:inherit;}acronym,address{vertical-align:baseline;}acronym,address{margin-left:0;}address,acronym{margin-bottom:0;}address,acronym{margin-right:0;}address,acronym{margin-top:0;}acronym,address{padding-left:0;}address,acronym{padding-bottom:0;}address,acronym{padding-right:0;}acronym,address{padding-top:0;}address{border-left-width:0;}address{border-bottom-width:0;}address{border-right-width:0;}address{border-top-width:0;}address{border-left-style:none;}address{border-bottom-style:none;}address{border-right-style:none;}address{border-top-style:none;}address{border-left-color:currentColor;}address{border-bottom-color:currentColor;}address{border-right-color:currentColor;}address{border-top-color:currentColor;}address{border-image:none;}address{font-size:100%;}address{font:inherit;}#saturn [class~=ring]{animation-iteration-count:infinite;}applet{border-left-width:0;}applet{border-bottom-width:0;}applet{border-right-width:0;}applet{border-top-width:0;}applet{border-left-style:none;}applet{border-bottom-style:none;}[class~=planet]{background-repeat:no-repeat;}applet{border-right-style:none;}applet{border-top-style:none;}applet{border-left-color:currentColor;}applet{border-bottom-color:currentColor;}applet{border-right-color:currentColor;}applet{border-top-color:currentColor;}applet{border-image:none;}applet{font-size:100%;}applet{font:inherit;}article,applet{vertical-align:baseline;}applet,article{margin-left:0;}article,applet{margin-bottom:0;}applet,article{margin-right:0;}applet,article{margin-top:0;}article,applet{padding-left:0;}article,applet{padding-bottom:0;}article,applet{padding-right:0;}#saturn [class~=ring]{animation-timing-function:linear;}#saturn [class~=ring]:after{top:50%;}applet,article{padding-top:0;}article{border-left-width:0;}article{border-bottom-width:0;}article{border-right-width:0;}article{border-top-width:0;}article{border-left-style:none;}article{border-bottom-style:none;}article{border-right-style:none;}article{border-top-style:none;}article{border-left-color:currentColor;}article{border-bottom-color:currentColor;}article{border-right-color:currentColor;}article{border-top-color:currentColor;}article{border-image:none;}article{font-size:100%;}article{font:inherit;}#saturn [class~=ring]:after{left:50%;}dl[class~=infos] dt{left:.520833333in;}[class~=planet]{background-size:cover;}aside{border-left-width:0;}aside{border-bottom-width:0;}aside{border-right-width:0;}aside{border-top-width:0;}aside{border-left-style:none;}aside{border-bottom-style:none;}aside{border-right-style:none;}aside{border-top-style:none;}aside{border-left-color:currentColor;}aside{border-bottom-color:currentColor;}aside{border-right-color:currentColor;}aside{border-top-color:currentColor;}aside{border-image:none;}.orbit{animation-iteration-count:infinite;}aside{font-size:100%;}aside{font:inherit;}audio,aside{vertical-align:baseline;}audio,aside{margin-left:0;}aside,audio{margin-bottom:0;}audio,aside{margin-right:0;}audio,aside{margin-top:0;}audio,aside{padding-left:0;}aside,audio{padding-bottom:0;}aside,audio{padding-right:0;}audio,aside{padding-top:0;}audio{border-left-width:0;}audio{border-bottom-width:0;}audio{border-right-width:0;}audio{border-top-width:0;}audio{border-left-style:none;}audio{border-bottom-style:none;}[class~=orbit] [class~=orbit]{animation-name:suborbit;}audio{border-right-style:none;}.orbit{animation-timing-function:linear;}audio{border-top-style:none;}audio{border-left-color:currentColor;}audio{border-bottom-color:currentColor;}audio{border-right-color:currentColor;}audio{border-top-color:currentColor;}audio{border-image:none;}audio{font-size:100%;}audio{font:inherit;}#universe,#solar-system{width:100%;}#universe,#solar-system{height:100%;}b{border-left-width:0;}b{border-bottom-width:0;}b{border-right-width:0;}b{border-top-width:0;}b{border-left-style:none;}b{border-bottom-style:none;}b{border-right-style:none;}b{border-top-style:none;}b{border-left-color:currentColor;}b{border-bottom-color:currentColor;}b{border-right-color:currentColor;}b{border-top-color:currentColor;}b{border-image:none;}b{font-size:100%;}b{font:inherit;}big,b{vertical-align:baseline;}big,b{margin-left:0;}big,b{margin-bottom:0;}big,b{margin-right:0;}b,big{margin-top:0;}b,big{padding-left:0;}big,b{padding-bottom:0;}b,big{padding-right:0;}b,big{padding-top:0;}big{border-left-width:0;}big{border-bottom-width:0;}big{border-right-width:0;}big{border-top-width:0;}big{border-left-style:none;}big{border-bottom-style:none;}[class~=planet],.pos{animation-iteration-count:infinite;}#solar-system{transform-style:preserve-3d;}#earth .moon{border-radius:50%;}big{border-right-style:none;}big{border-top-style:none;}big{border-left-color:currentColor;}big{border-bottom-color:currentColor;}big{border-right-color:currentColor;}big{border-top-color:currentColor;}big{border-image:none;}big{font-size:100%;}big{font:inherit;}blockquote{border-left-width:0;}blockquote{border-bottom-width:0;}blockquote{border-right-width:0;}blockquote{border-top-width:0;}blockquote{border-left-style:none;}blockquote{border-bottom-style:none;}blockquote{border-right-style:none;}blockquote{border-top-style:none;}[class~=planet],.pos{animation-timing-function:linear;}blockquote{border-left-color:currentColor;}blockquote{border-bottom-color:currentColor;}blockquote{border-right-color:currentColor;}blockquote{border-top-color:currentColor;}blockquote{border-image:none;}blockquote{font-size:100%;}blockquote{font:inherit;}blockquote,body{vertical-align:baseline;}blockquote,body{margin-left:0;}body,blockquote{margin-bottom:0;}blockquote,body{margin-right:0;}body,blockquote{margin-top:0;}body,blockquote{padding-left:0;}body,blockquote{padding-bottom:0;}blockquote,body{padding-right:0;}body,blockquote{padding-top:0;}body{border-left-width:0;}body{border-bottom-width:0;}body{border-right-width:0;}body{border-top-width:0;}body{border-left-style:none;}body{border-bottom-style:none;}body{border-right-style:none;}dl[class~=infos]{width:100%;}body{border-top-style:none;}body{border-left-color:currentColor;}body{border-bottom-color:currentColor;}body{border-right-color:currentColor;}body{border-top-color:currentColor;}body{border-image:none;}body{font-size:100%;}body{font:inherit;}#sun{transform-style:preserve-3d;}#universe,#sun{background-repeat:no-repeat;}canvas{border-left-width:0;}canvas{border-bottom-width:0;}canvas{border-right-width:0;}canvas{border-top-width:0;}canvas{border-left-style:none;}canvas{border-bottom-style:none;}canvas{border-right-style:none;}canvas{border-top-style:none;}canvas{border-left-color:currentColor;}canvas{border-bottom-color:currentColor;}canvas{border-right-color:currentColor;}canvas{border-top-color:currentColor;}[class~=icon]{transition-duration:.8s;}canvas{border-image:none;}canvas{font-size:100%;}canvas{font:inherit;}canvas,caption{vertical-align:baseline;}canvas,caption{margin-left:0;}canvas,caption{margin-bottom:0;}caption,canvas{margin-right:0;}canvas,caption{margin-top:0;}caption,canvas{padding-left:0;}caption,canvas{padding-bottom:0;}caption,canvas{padding-right:0;}canvas,caption{padding-top:0;}caption{border-left-width:0;}caption{border-bottom-width:0;}caption{border-right-width:0;}#sun{background-size:cover;}caption{border-top-width:0;}caption{border-left-style:none;}caption{border-bottom-style:none;}caption{border-right-style:none;}caption{border-top-style:none;}caption{border-left-color:currentColor;}#saturn [class~=ring]:after{width:2.2em;}caption{border-bottom-color:currentColor;}caption{border-right-color:currentColor;}caption{border-top-color:currentColor;}caption{border-image:none;}caption{font-size:100%;}caption{font:inherit;}center{border-left-width:0;}center{border-bottom-width:0;}center{border-right-width:0;}center{border-top-width:0;}#saturn [class~=ring]:after{height:2.2em;}center{border-left-style:none;}center{border-bottom-style:none;}center{border-right-style:none;}center{border-top-style:none;}center{border-left-color:currentColor;}center{border-bottom-color:currentColor;}center{border-right-color:currentColor;}center{border-top-color:currentColor;}center{border-image:none;}center{font-size:100%;}center{font:inherit;}cite,center{vertical-align:baseline;}center,cite{margin-left:0;}cite,center{margin-bottom:0;}center,cite{margin-right:0;}center,cite{margin-top:0;}center,cite{padding-left:0;}cite,center{padding-bottom:0;}cite,center{padding-right:0;}center,cite{padding-top:0;}cite{border-left-width:0;}cite{border-bottom-width:0;}cite{border-right-width:0;}cite{border-top-width:0;}cite{border-left-style:none;}cite{border-bottom-style:none;}cite{border-right-style:none;}[class~=icon]{transition-timing-function:ease-in-out;}cite{border-top-style:none;}cite{border-left-color:currentColor;}cite{border-bottom-color:currentColor;}cite{border-right-color:currentColor;}cite{border-top-color:currentColor;}cite{border-image:none;}dl[class~=infos] dt{text-shadow:.010416667in .010416667in .125pc #000;}cite{font-size:100%;}cite{font:inherit;}#universe{background-size:cover;}#earth .moon{top:50%;}code{border-left-width:0;}code{border-bottom-width:0;}code{border-right-width:0;}code{border-top-width:0;}code{border-left-style:none;}code{border-bottom-style:none;}code{border-right-style:none;}code{border-top-style:none;}code{border-left-color:currentColor;}code{border-bottom-color:currentColor;}code{border-right-color:currentColor;}code{border-top-color:currentColor;}code{border-image:none;}code{font-size:100%;}code{font:inherit;}dd,code{vertical-align:baseline;}dd,code{margin-left:0;}dd,code{margin-bottom:0;}dd,code{margin-right:0;}code,dd{margin-top:0;}dd,code{padding-left:0;}code,dd{padding-bottom:0;}dd,code{padding-right:0;}dd,code{padding-top:0;}dd{border-left-width:0;}dd{border-bottom-width:0;}dd{border-right-width:0;}dd{border-top-width:0;}dd{border-left-style:none;}#controls,[class~=infos],#data{transition-duration:.8s;}dd{border-bottom-style:none;}dd{border-right-style:none;}dd{border-top-style:none;}dd{border-left-color:currentColor;}dd{border-bottom-color:currentColor;}dd{border-right-color:currentColor;}dd{border-top-color:currentColor;}dd{border-image:none;}#controls,[class~=infos]{transition-timing-function:ease-in-out;}dd{font-size:100%;}dd{font:inherit;}#saturn [class~=ring]:after{margin-top:-1.1em;}del{border-left-width:0;}del{border-bottom-width:0;}del{border-right-width:0;}del{border-top-width:0;}del{border-left-style:none;}del{border-bottom-style:none;}del{border-right-style:none;}del{border-top-style:none;}del{border-left-color:currentColor;}del{border-bottom-color:currentColor;}del{border-right-color:currentColor;}del{border-top-color:currentColor;}del{border-image:none;}#saturn [class~=ring]:after{margin-left:-1.1em;}del{font-size:100%;}del{font:inherit;}details,del{vertical-align:baseline;}del,details{margin-left:0;}del,details{margin-bottom:0;}details,del{margin-right:0;}details,del{margin-top:0;}del,details{padding-left:0;}del,details{padding-bottom:0;}details,del{padding-right:0;}del,details{padding-top:0;}details{border-left-width:0;}details{border-bottom-width:0;}details{border-right-width:0;}details{border-top-width:0;}dl[class~=infos] dt{color:#fff;}details{border-left-style:none;}details{border-bottom-style:none;}details{border-right-style:none;}details{border-top-style:none;}details{border-left-color:currentColor;}details{border-bottom-color:currentColor;}#earth .moon{left:50%;}details{border-right-color:currentColor;}details{border-top-color:currentColor;}details{border-image:none;}details{font-size:100%;}details{font:inherit;}dfn{border-left-width:0;}dfn{border-bottom-width:0;}dfn{border-right-width:0;}dfn{border-top-width:0;}dfn{border-left-style:none;}dfn{border-bottom-style:none;}dfn{border-right-style:none;}[class~=planet],[class~=orbit],#data{transition-timing-function:ease-in-out;}dfn{border-top-style:none;}dfn{border-left-color:currentColor;}#navbar a{font-size:.875pc;}#earth .moon{position:absolute;}dfn{border-bottom-color:currentColor;}dfn{border-right-color:currentColor;}dfn{border-top-color:currentColor;}dfn{border-image:none;}dfn{font-size:100%;}dfn{font:inherit;}dfn,div{vertical-align:baseline;}div,dfn{margin-left:0;}div,dfn{margin-bottom:0;}dfn,div{margin-right:0;}div,dfn{margin-top:0;}[class~=planet],[class~=orbit]{transition-duration:.8s;}div,dfn{padding-left:0;}dfn,div{padding-bottom:0;}dfn,div{padding-right:0;}div,dfn{padding-top:0;}div{border-left-width:0;}div{border-bottom-width:0;}div{border-right-width:0;}div{border-top-width:0;}div{border-left-style:none;}div{border-bottom-style:none;}div{border-right-style:none;}div{border-top-style:none;}div{border-left-color:currentColor;}div{border-bottom-color:currentColor;}div{border-right-color:currentColor;}div{border-top-color:currentColor;}div{border-image:none;}div{font-size:100%;}div{font:inherit;}#saturn [class~=ring]:after{border-left-width:.07em;}dl{border-left-width:0;}dl{border-bottom-width:0;}dl{border-right-width:0;}#earth [class~=moon]{width:1em;}dl{border-top-width:0;}dl{border-left-style:none;}dl{border-bottom-style:none;}dl{border-right-style:none;}dl{border-top-style:none;}dl{border-left-color:currentColor;}dl{border-bottom-color:currentColor;}dl{border-right-color:currentColor;}dl{border-top-color:currentColor;}dl{border-image:none;}dl{font-size:100%;}dl{font:inherit;}dl,dt{vertical-align:baseline;}dl,dt{margin-left:0;}dl,dt{margin-bottom:0;}dl,dt{margin-right:0;}#earth [class~=moon]{height:1em;}dt,dl{margin-top:0;}dt,dl{padding-left:0;}dt,dl{padding-bottom:0;}dt,dl{padding-right:0;}dt,dl{padding-top:0;}dt{border-left-width:0;}#saturn [class~=ring]:after{border-bottom-width:.07em;}dt{border-bottom-width:0;}[class~=pos]{transition-duration:.8s;}dt{border-right-width:0;}dt{border-top-width:0;}dt{border-left-style:none;}dt{border-bottom-style:none;}dt{border-right-style:none;}dt{border-top-style:none;}dt{border-left-color:currentColor;}dt{border-bottom-color:currentColor;}dt{border-right-color:currentColor;}dt{border-top-color:currentColor;}dt{border-image:none;}dt{font-size:100%;}dt{font:inherit;}em{border-left-width:0;}em{border-bottom-width:0;}em{border-right-width:0;}em{border-top-width:0;}em{border-left-style:none;}em{border-bottom-style:none;}em{border-right-style:none;}em{border-top-style:none;}em{border-left-color:currentColor;}em{border-bottom-color:currentColor;}em{border-right-color:currentColor;}em{border-top-color:currentColor;}#saturn [class~=ring]:after{border-right-width:.07em;}em{border-image:none;}em{font-size:100%;}em{font:inherit;}embed,em{vertical-align:baseline;}em,embed{margin-left:0;}embed,em{margin-bottom:0;}em,embed{margin-right:0;}em,embed{margin-top:0;}embed,em{padding-left:0;}embed,em{padding-bottom:0;}em,embed{padding-right:0;}em,embed{padding-top:0;}embed{border-left-width:0;}embed{border-bottom-width:0;}embed{border-right-width:0;}embed{border-top-width:0;}[class~=pos]{transition-timing-function:ease-in-out;}embed{border-left-style:none;}embed{border-bottom-style:none;}embed{border-right-style:none;}embed{border-top-style:none;}embed{border-left-color:currentColor;}embed{border-bottom-color:currentColor;}embed{border-right-color:currentColor;}embed{border-top-color:currentColor;}embed{border-image:none;}embed{font-size:100%;}embed{font:inherit;}fieldset{border-left-width:0;}fieldset{border-bottom-width:0;}fieldset{border-right-width:0;}fieldset{border-top-width:0;}[class~=ring]{transition-duration:.8s;}fieldset{border-left-style:none;}fieldset{border-bottom-style:none;}fieldset{border-right-style:none;}fieldset{border-top-style:none;}fieldset{border-left-color:currentColor;}fieldset{border-bottom-color:currentColor;}fieldset{border-right-color:currentColor;}fieldset{border-top-color:currentColor;}fieldset{border-image:none;}fieldset{font-size:100%;}fieldset{font:inherit;}figcaption,fieldset{vertical-align:baseline;}fieldset,figcaption{margin-left:0;}fieldset,figcaption{margin-bottom:0;}#earth [class~=moon]{margin-top:-.5em;}fieldset,figcaption{margin-right:0;}figcaption,fieldset{margin-top:0;}dl[class~=infos] dd span:after{left:.520833333in;}fieldset,figcaption{padding-left:0;}fieldset,figcaption{padding-bottom:0;}figcaption,fieldset{padding-right:0;}figcaption,fieldset{padding-top:0;}figcaption{border-left-width:0;}figcaption{border-bottom-width:0;}figcaption{border-right-width:0;}figcaption{border-top-width:0;}figcaption{border-left-style:none;}figcaption{border-bottom-style:none;}[class~=ring]{transition-timing-function:ease-in-out;}figcaption{border-right-style:none;}figcaption{border-top-style:none;}figcaption{border-left-color:currentColor;}figcaption{border-bottom-color:currentColor;}figcaption{border-right-color:currentColor;}figcaption{border-top-color:currentColor;}figcaption{border-image:none;}figcaption{font-size:100%;}figcaption{font:inherit;}#saturn [class~=ring]:after{border-top-width:.07em;}figure{border-left-width:0;}figure{border-bottom-width:0;}figure{border-right-width:0;}figure{border-top-width:0;}figure{border-left-style:none;}figure{border-bottom-style:none;}figure{border-right-style:none;}figure{border-top-style:none;}#earth [class~=moon]{margin-left:-.5em;}figure{border-left-color:currentColor;}figure{border-bottom-color:currentColor;}figure{border-right-color:currentColor;}figure{border-top-color:currentColor;}figure{border-image:none;}figure{font-size:100%;}figure{font:inherit;}figure,footer{vertical-align:baseline;}figure,footer{margin-left:0;}figure,footer{margin-bottom:0;}figure,footer{margin-right:0;}figure,footer{margin-top:0;}figure,footer{padding-left:0;}figure,footer{padding-bottom:0;}figure,footer{padding-right:0;}figure,footer{padding-top:0;}#saturn [class~=ring]:after{border-left-style:solid;}#saturn .ring{width:2em;}footer{border-left-width:0;}dl[class~=infos] dt{font-size:.875pc;}footer{border-bottom-width:0;}footer{border-right-width:0;}footer{border-top-width:0;}.satelite,#solar-system{transition-duration:.8s;}footer{border-left-style:none;}footer{border-bottom-style:none;}footer{border-right-style:none;}footer{border-top-style:none;}footer{border-left-color:currentColor;}footer{border-bottom-color:currentColor;}footer{border-right-color:currentColor;}footer{border-top-color:currentColor;}footer{border-image:none;}#saturn [class~=ring]:after{border-bottom-style:solid;}footer{font-size:100%;}footer{font:inherit;}form{border-left-width:0;}blockquote:after{content:none;}form{border-bottom-width:0;}form{border-right-width:0;}form{border-top-width:0;}form{border-left-style:none;}form{border-bottom-style:none;}form{border-right-style:none;}form{border-top-style:none;}form{border-left-color:currentColor;}dl[class~=infos] dd:after{left:.520833333in;}form{border-bottom-color:currentColor;}form{border-right-color:currentColor;}form{border-top-color:currentColor;}form{border-image:none;}.satelite{transition-timing-function:ease-in-out;}form{font-size:100%;}form{font:inherit;}h1,h2,h3,form{vertical-align:baseline;}h1,h3,h2,form{margin-left:0;}form,h1,h2,h3{margin-bottom:0;}h3,h2,h1,form{margin-right:0;}h1,h2,h3,form{margin-top:0;}h1,h2,form,h3{padding-left:0;}h1,h3,form,h2{padding-bottom:0;}#saturn [class~=ring]:after{border-right-style:solid;}h1,h2,h3,form{padding-right:0;}form,h1,h2,h3{padding-top:0;}h1{border-left-width:0;}h1{border-bottom-width:0;}h1{border-right-width:0;}h1{border-top-width:0;}h1{border-left-style:none;}h1{border-bottom-style:none;}h1{border-right-style:none;}h1{border-top-style:none;}h1{border-left-color:currentColor;}h1{border-bottom-color:currentColor;}h1{border-right-color:currentColor;}h1{border-top-color:currentColor;}h1{border-image:none;}h1{font-size:100%;}h1{font:inherit;}h2{border-left-width:0;}h2{border-bottom-width:0;}h2{border-right-width:0;}h2{border-top-width:0;}h2{border-left-style:none;}h2{border-bottom-style:none;}h2{border-right-style:none;}h2{border-top-style:none;}h2{border-left-color:currentColor;}h2{border-bottom-color:currentColor;}h2{border-right-color:currentColor;}h2{border-top-color:currentColor;}h2{border-image:none;}h2{font-size:100%;}h2{font:inherit;}#solar-system{transition-timing-function:ease-in-out;}h3{border-left-width:0;}h3{border-bottom-width:0;}h3{border-right-width:0;}#saturn [class~=ring]:after{border-top-style:solid;}h3{border-top-width:0;}h3{border-left-style:none;}h3{border-bottom-style:none;}h3{border-right-style:none;}[class~=orbit]{top:50%;}h3{border-top-style:none;}h3{border-left-color:currentColor;}h3{border-bottom-color:currentColor;}h3{border-right-color:currentColor;}h3{border-top-color:currentColor;}h3{border-image:none;}h3{font-size:100%;}h3{font:inherit;}#saturn [class~=ring]:after{border-left-color:rgba(160,147,130,.5);}h4{border-left-width:0;}h4{border-bottom-width:0;}h4{border-right-width:0;}h4{border-top-width:0;}h4{border-left-style:none;}#saturn .ring{height:2em;}h4{border-bottom-style:none;}h4{border-right-style:none;}h4{border-top-style:none;}h4{border-left-color:currentColor;}h4{border-bottom-color:currentColor;}h4{border-right-color:currentColor;}h4{border-top-color:currentColor;}h4{border-image:none;}h4{font-size:100%;}h4{font:inherit;}h4,h5{vertical-align:baseline;}h5,h4{margin-left:0;}#saturn .ring{margin-top:-1em;}h4,h5{margin-bottom:0;}h5,h4{margin-right:0;}h5,h4{margin-top:0;}h4,h5{padding-left:0;}h5,h4{padding-bottom:0;}h5,h4{padding-right:0;}h4,h5{padding-top:0;}h5{border-left-width:0;}h5{border-bottom-width:0;}h5{border-right-width:0;}#navbar a{height:36pt;}h5{border-top-width:0;}h5{border-left-style:none;}h5{border-bottom-style:none;}h5{border-right-style:none;}h5{border-top-style:none;}h5{border-left-color:currentColor;}h5{border-bottom-color:currentColor;}h5{border-right-color:currentColor;}h5{border-top-color:currentColor;}h5{border-image:none;}h5{font-size:100%;}h5{font:inherit;}[class~=orbit]{left:50%;}h6{border-left-width:0;}h6{border-bottom-width:0;}h6{border-right-width:0;}[class~=orbit]{border-left-width:.09375pc;}dl[class~=infos] dd span:after{text-shadow:.010416667in .010416667in .125pc #000;}h6{border-top-width:0;}h6{border-left-style:none;}h6{border-bottom-style:none;}h6{border-right-style:none;}h6{border-top-style:none;}h6{border-left-color:currentColor;}h6{border-bottom-color:currentColor;}h6{border-right-color:currentColor;}h6{border-top-color:currentColor;}h6{border-image:none;}h6{font-size:100%;}h6{font:inherit;}h6,header{vertical-align:baseline;}header,h6{margin-left:0;}header,h6{margin-bottom:0;}header,h6{margin-right:0;}header,h6{margin-top:0;}h6,header{padding-left:0;}h6,header{padding-bottom:0;}header,h6{padding-right:0;}h6,header{padding-top:0;}header{border-left-width:0;}header{border-bottom-width:0;}header{border-right-width:0;}header{border-top-width:0;}header{border-left-style:none;}header{border-bottom-style:none;}header{border-right-style:none;}#navbar a{padding-left:12pt;}header{border-top-style:none;}header{border-left-color:currentColor;}header{border-bottom-color:currentColor;}header{border-right-color:currentColor;}[class~=orbit]{border-bottom-width:.09375pc;}header{border-top-color:currentColor;}header{border-image:none;}header{font-size:100%;}header{font:inherit;}hgroup{border-left-width:0;}hgroup{border-bottom-width:0;}hgroup{border-right-width:0;}hgroup{border-top-width:0;}blockquote:before{content:none;}hgroup{border-left-style:none;}hgroup{border-bottom-style:none;}hgroup{border-right-style:none;}hgroup{border-top-style:none;}hgroup{border-left-color:currentColor;}hgroup{border-bottom-color:currentColor;}hgroup{border-right-color:currentColor;}hgroup{border-top-color:currentColor;}hgroup{border-image:none;}hgroup{font-size:100%;}hgroup{font:inherit;}html,hgroup{vertical-align:baseline;}html,hgroup{margin-left:0;}html,hgroup{margin-bottom:0;}html,hgroup{margin-right:0;}hgroup,html{margin-top:0;}html,hgroup{padding-left:0;}hgroup,html{padding-bottom:0;}hgroup,html{padding-right:0;}hgroup,html{padding-top:0;}html{border-left-width:0;}html{border-bottom-width:0;}html{border-right-width:0;}html{border-top-width:0;}html{border-left-style:none;}html{border-bottom-style:none;}html{border-right-style:none;}html{border-top-style:none;}html{border-left-color:currentColor;}html{border-bottom-color:currentColor;}html{border-right-color:currentColor;}html{border-top-color:currentColor;}html{border-image:none;}html{font-size:100%;}html{font:inherit;}i{border-left-width:0;}i{border-bottom-width:0;}i{border-right-width:0;}#saturn [class~=ring]:after{border-bottom-color:rgba(160,147,130,.5);}i{border-top-width:0;}i{border-left-style:none;}i{border-bottom-style:none;}#sun{transition-duration:.8s;}i{border-right-style:none;}i{border-top-style:none;}i{border-left-color:currentColor;}i{border-bottom-color:currentColor;}i{border-right-color:currentColor;}i{border-top-color:currentColor;}i{border-image:none;}i{font-size:100%;}i{font:inherit;}i,iframe{vertical-align:baseline;}i,iframe{margin-left:0;}iframe,i{margin-bottom:0;}i,iframe{margin-right:0;}iframe,i{margin-top:0;}#sun{transition-timing-function:ease-in-out;}i,iframe{padding-left:0;}iframe,i{padding-bottom:0;}i,iframe{padding-right:0;}i,iframe{padding-top:0;}iframe{border-left-width:0;}iframe{border-bottom-width:0;}iframe{border-right-width:0;}iframe{border-top-width:0;}iframe{border-left-style:none;}iframe{border-bottom-style:none;}iframe{border-right-style:none;}iframe{border-top-style:none;}iframe{border-left-color:currentColor;}iframe{border-bottom-color:currentColor;}iframe{border-right-color:currentColor;}iframe{border-top-color:currentColor;}iframe{border-image:none;}iframe{font-size:100%;}iframe{font:inherit;}#universe{z-index:1;}img{border-left-width:0;}img{border-bottom-width:0;}img{border-right-width:0;}img{border-top-width:0;}img{border-left-style:none;}img{border-bottom-style:none;}img{border-right-style:none;}img{border-top-style:none;}img{border-left-color:currentColor;}img{border-bottom-color:currentColor;}img{border-right-color:currentColor;}img{border-top-color:currentColor;}img{border-image:none;}img{font-size:100%;}img{font:inherit;}ins,img{vertical-align:baseline;}ins,img{margin-left:0;}ins,img{margin-bottom:0;}img,ins{margin-right:0;}img,ins{margin-top:0;}#saturn .ring{margin-left:-1em;}img,ins{padding-left:0;}#universe{overflow:hidden;}ins,img{padding-bottom:0;}ins,img{padding-right:0;}img,ins{padding-top:0;}ins{border-left-width:0;}ins{border-bottom-width:0;}[class~=orbit]{border-right-width:.09375pc;}ins{border-right-width:0;}ins{border-top-width:0;}ins{border-left-style:none;}ins{border-bottom-style:none;}ins{border-right-style:none;}ins{border-top-style:none;}ins{border-left-color:currentColor;}ins{border-bottom-color:currentColor;}ins{border-right-color:currentColor;}ins{border-top-color:currentColor;}ins{border-image:none;}ins{font-size:100%;}ins{font:inherit;}[class~=orbit]{border-top-width:.09375pc;}#navbar a{padding-bottom:12pt;}kbd{border-left-width:0;}kbd{border-bottom-width:0;}kbd{border-right-width:0;}kbd{border-top-width:0;}kbd{border-left-style:none;}kbd{border-bottom-style:none;}kbd{border-right-style:none;}kbd{border-top-style:none;}kbd{border-left-color:currentColor;}kbd{border-bottom-color:currentColor;}kbd{border-right-color:currentColor;}*{-moz-box-sizing:border-box;}#saturn .ring{border-left-width:.3em;}kbd{border-top-color:currentColor;}kbd{border-image:none;}kbd{font-size:100%;}kbd{font:inherit;}kbd,label{vertical-align:baseline;}label,kbd{margin-left:0;}label,kbd{margin-bottom:0;}kbd,label{margin-right:0;}label,kbd{margin-top:0;}kbd,label{padding-left:0;}kbd,label{padding-bottom:0;}label,kbd{padding-right:0;}kbd,label{padding-top:0;}label{border-left-width:0;}label{border-bottom-width:0;}label{border-right-width:0;}label{border-top-width:0;}label{border-left-style:none;}label{border-bottom-style:none;}label{border-right-style:none;}label{border-top-style:none;}label{border-left-color:currentColor;}label{border-bottom-color:currentColor;}label{border-right-color:currentColor;}label{border-top-color:currentColor;}label{border-image:none;}label{font-size:100%;}#saturn .ring{border-bottom-width:.3em;}label{font:inherit;}legend{border-left-width:0;}legend{border-bottom-width:0;}legend{border-right-width:0;}legend{border-top-width:0;}legend{border-left-style:none;}legend{border-bottom-style:none;}[class~=orbit]{border-left-style:solid;}legend{border-right-style:none;}#universe{background-position:center 40%;}legend{border-top-style:none;}dl[class~=infos] dd span:after{color:#fff;}legend{border-left-color:currentColor;}legend{border-bottom-color:currentColor;}legend{border-right-color:currentColor;}legend{border-top-color:currentColor;}legend{border-image:none;}legend{font-size:100%;}legend{font:inherit;}li,legend{vertical-align:baseline;}legend,li{margin-left:0;}legend,li{margin-bottom:0;}legend,li{margin-right:0;}[class~=orbit]{border-bottom-style:solid;}legend,li{margin-top:0;}li,legend{padding-left:0;}legend,li{padding-bottom:0;}#universe{background-image:url("textures/universe.jpg");}legend,li{padding-right:0;}legend,li{padding-top:0;}li{border-left-width:0;}li{border-bottom-width:0;}li{border-right-width:0;}li{border-top-width:0;}li{border-left-style:none;}li{border-bottom-style:none;}li{border-right-style:none;}li{border-top-style:none;}li{border-left-color:currentColor;}#navbar a{padding-right:12pt;}li{border-bottom-color:currentColor;}li{border-right-color:currentColor;}#saturn [class~=ring]:after{border-right-color:rgba(160,147,130,.5);}li{border-top-color:currentColor;}[class~=orbit]{border-right-style:solid;}li{border-image:none;}li{font-size:100%;}li{font:inherit;}#galaxy{position:relative;}#saturn [class~=ring]:after{border-top-color:rgba(160,147,130,.5);}[class~=orbit]{border-top-style:solid;}mark{border-left-width:0;}mark{border-bottom-width:0;}mark{border-right-width:0;}mark{border-top-width:0;}mark{border-left-style:none;}mark{border-bottom-style:none;}mark{border-right-style:none;}mark{border-top-style:none;}mark{border-left-color:currentColor;}mark{border-bottom-color:currentColor;}mark{border-right-color:currentColor;}mark{border-top-color:currentColor;}mark{border-image:none;}mark{font-size:100%;}mark{font:inherit;}menu,mark{vertical-align:baseline;}menu,mark{margin-left:0;}mark,menu{margin-bottom:0;}menu,mark{margin-right:0;}menu,mark{margin-top:0;}mark,menu{padding-left:0;}mark,menu{padding-bottom:0;}mark,menu{padding-right:0;}mark,menu{padding-top:0;}menu{border-left-width:0;}menu{border-bottom-width:0;}menu{border-right-width:0;}menu{border-top-width:0;}menu{border-left-style:none;}menu{border-bottom-style:none;}menu{border-right-style:none;}menu{border-top-style:none;}menu{border-left-color:currentColor;}menu{border-bottom-color:currentColor;}#galaxy{perspective:4000;}menu{border-right-color:currentColor;}menu{border-top-color:currentColor;}#saturn .ring{border-right-width:.3em;}menu{border-image:none;}menu{font-size:100%;}menu{font:inherit;}#sun{border-radius:50%;}nav{border-left-width:0;}nav{border-bottom-width:0;}nav{border-right-width:0;}nav{border-top-width:0;}nav{border-left-style:none;}nav{border-bottom-style:none;}nav{border-right-style:none;}nav{border-top-style:none;}nav{border-left-color:currentColor;}nav{border-bottom-color:currentColor;}nav{border-right-color:currentColor;}nav{border-top-color:currentColor;}nav{border-image:none;}nav{font-size:100%;}nav{font:inherit;}#sun{top:50%;}object,nav{vertical-align:baseline;}[class~=orbit]{border-left-color:rgba(255,255,255,.5);}object,nav{margin-left:0;}object,nav{margin-bottom:0;}object,nav{margin-right:0;}#saturn .ring{border-top-width:.3em;}nav,object{margin-top:0;}object,nav{padding-left:0;}nav,object{padding-bottom:0;}object,nav{padding-right:0;}nav,object{padding-top:0;}object{border-left-width:0;}object{border-bottom-width:0;}object{border-right-width:0;}object{border-top-width:0;}object{border-left-style:none;}object{border-bottom-style:none;}object{border-right-style:none;}object{border-top-style:none;}object{border-left-color:currentColor;}object{border-bottom-color:currentColor;}object{border-right-color:currentColor;}object{border-top-color:currentColor;}object{border-image:none;}object{font-size:100%;}object{font:inherit;}#sun{left:50%;}ol{border-left-width:0;}ol{border-bottom-width:0;}ol{border-right-width:0;}ol{border-top-width:0;}ol{border-left-style:none;}ol{border-bottom-style:none;}ol{border-right-style:none;}ol{border-top-style:none;}ol{border-left-color:currentColor;}ol{border-bottom-color:currentColor;}ol{border-right-color:currentColor;}q:after{content:none;}ol{border-top-color:currentColor;}ol{border-image:none;}ol{font-size:100%;}ol{font:inherit;}output,ol{vertical-align:baseline;}output,ol{margin-left:0;}output,ol{margin-bottom:0;}[class~=orbit]{border-bottom-color:rgba(255,255,255,.5);}output,ol{margin-right:0;}output,ol{margin-top:0;}output,ol{padding-left:0;}ol,output{padding-bottom:0;}ol,output{padding-right:0;}ol,output{padding-top:0;}output{border-left-width:0;}output{border-bottom-width:0;}output{border-right-width:0;}#saturn .ring{border-left-style:solid;}output{border-top-width:0;}output{border-left-style:none;}output{border-bottom-style:none;}output{border-right-style:none;}[class~=orbit]{border-right-color:rgba(255,255,255,.5);}output{border-top-style:none;}output{border-left-color:currentColor;}output{border-bottom-color:currentColor;}output{border-right-color:currentColor;}output{border-top-color:currentColor;}output{border-image:none;}output{font-size:100%;}output{font:inherit;}p{border-left-width:0;}p{border-bottom-width:0;}p{border-right-width:0;}p{border-top-width:0;}p{border-left-style:none;}p{border-bottom-style:none;}p{border-right-style:none;}p{border-top-style:none;}p{border-left-color:currentColor;}p{border-bottom-color:currentColor;}p{border-right-color:currentColor;}[class~=orbit]{border-top-color:rgba(255,255,255,.5);}p{border-top-color:currentColor;}#sun{position:absolute;}p,[class~=orbit]{border-image:none;}p{font-size:100%;}p{font:inherit;}pre,p{vertical-align:baseline;}p,pre{margin-left:0;}p,pre{margin-bottom:0;}p,pre{margin-right:0;}p,pre{margin-top:0;}pre,p{padding-left:0;}pre,p{padding-bottom:0;}p,pre{padding-right:0;}pre,p{padding-top:0;}pre{border-left-width:0;}pre{border-bottom-width:0;}pre{border-right-width:0;}pre{border-top-width:0;}pre{border-left-style:none;}pre{border-bottom-style:none;}*{box-sizing:border-box;}pre{border-right-style:none;}pre{border-top-style:none;}pre{border-left-color:currentColor;}pre{border-bottom-color:currentColor;}pre{border-right-color:currentColor;}pre{border-top-color:currentColor;}pre{border-image:none;}pre{font-size:100%;}pre{font:inherit;}q{border-left-width:0;}q{border-bottom-width:0;}q{border-right-width:0;}q{border-top-width:0;}q{border-left-style:none;}q{border-bottom-style:none;}q{border-right-style:none;}q{border-top-style:none;}q{border-left-color:currentColor;}q{border-bottom-color:currentColor;}q{border-right-color:currentColor;}q{border-top-color:currentColor;}q,#saturn [class~=ring]:after{border-image:none;}q{font-size:100%;}q{font:inherit;}q,ruby{vertical-align:baseline;}ruby,q{margin-left:0;}ruby,q{margin-bottom:0;}q,ruby{margin-right:0;}ruby,q{margin-top:0;}q,ruby{padding-left:0;}q,ruby{padding-bottom:0;}q,ruby{padding-right:0;}ruby,q{padding-top:0;}ruby{border-left-width:0;}ruby{border-bottom-width:0;}ruby{border-right-width:0;}ruby{border-top-width:0;}ruby{border-left-style:none;}[class~=orbit]{border-radius:50%;}ruby{border-bottom-style:none;}ruby{border-right-style:none;}ruby{border-top-style:none;}ruby{border-left-color:currentColor;}ruby{border-bottom-color:currentColor;}ruby{border-right-color:currentColor;}ruby{border-top-color:currentColor;}ruby{border-image:none;}ruby{font-size:100%;}ruby{font:inherit;}[class~=orbit]{animation-name:orbit;}s{border-left-width:0;}s{border-bottom-width:0;}s{border-right-width:0;}s{border-top-width:0;}s{border-left-style:none;}s{border-bottom-style:none;}s{border-right-style:none;}s{border-top-style:none;}s{border-left-color:currentColor;}s{border-bottom-color:currentColor;}s{border-right-color:currentColor;}s{border-top-color:currentColor;}#sun{width:1em;}s{border-image:none;}s{font-size:100%;}s{font:inherit;}samp,s{vertical-align:baseline;}samp,s{margin-left:0;}s,samp{margin-bottom:0;}samp,s{margin-right:0;}samp,s{margin-top:0;}s,samp{padding-left:0;}samp,s{padding-bottom:0;}s,samp{padding-right:0;}samp,s{padding-top:0;}samp{border-left-width:0;}samp{border-bottom-width:0;}samp{border-right-width:0;}samp{border-top-width:0;}samp{border-left-style:none;}samp{border-bottom-style:none;}samp{border-right-style:none;}samp{border-top-style:none;}samp{border-left-color:currentColor;}samp{border-bottom-color:currentColor;}samp{border-right-color:currentColor;}samp{border-top-color:currentColor;}samp{border-image:none;}samp{font-size:100%;}samp{font:inherit;}[class~=planet],[class~=ring]{border-radius:50%;}[class~=planet]{top:50%;}section{border-left-width:0;}section{border-bottom-width:0;}section{border-right-width:0;}section{border-top-width:0;}section{border-left-style:none;}section{border-bottom-style:none;}[class~=planet]{left:50%;}section{border-right-style:none;}[class~=planet]{position:absolute;}section{border-top-style:none;}section{border-left-color:currentColor;}section{border-bottom-color:currentColor;}section{border-right-color:currentColor;}section{border-top-color:currentColor;}section{border-image:none;}section{font-size:100%;}section{font:inherit;}section,small{vertical-align:baseline;}small,section{margin-left:0;}small,section{margin-bottom:0;}small,section{margin-right:0;}small,section{margin-top:0;}small,section{padding-left:0;}section,small{padding-bottom:0;}section,small{padding-right:0;}small,section{padding-top:0;}small{border-left-width:0;}small{border-bottom-width:0;}small{border-right-width:0;}small{border-top-width:0;}small{border-left-style:none;}#navbar a{padding-top:12pt;}small{border-bottom-style:none;}small{border-right-style:none;}small{border-top-style:none;}small{border-left-color:currentColor;}small{border-bottom-color:currentColor;}small{border-right-color:currentColor;}small{border-top-color:currentColor;}small{border-image:none;}small{font-size:100%;}small{font:inherit;}#sun{height:1em;}span{border-left-width:0;}span{border-bottom-width:0;}span{border-right-width:0;}span{border-top-width:0;}span{border-left-style:none;}span{border-bottom-style:none;}span{border-right-style:none;}span{border-top-style:none;}span{border-left-color:currentColor;}span{border-bottom-color:currentColor;}span{border-right-color:currentColor;}span{border-top-color:currentColor;}span{border-image:none;}span{font-size:100%;}span{font:inherit;}span,strike{vertical-align:baseline;}span,strike{margin-left:0;}span,strike{margin-bottom:0;}strike,span{margin-right:0;}#sun{margin-top:-.5em;}strike,span{margin-top:0;}strike,span{padding-left:0;}strike,span{padding-bottom:0;}strike,span{padding-right:0;}span,strike{padding-top:0;}strike{border-left-width:0;}strike{border-bottom-width:0;}strike{border-right-width:0;}strike{border-top-width:0;}strike{border-left-style:none;}strike{border-bottom-style:none;}strike{border-right-style:none;}strike{border-top-style:none;}strike{border-left-color:currentColor;}strike{border-bottom-color:currentColor;}strike{border-right-color:currentColor;}strike{border-top-color:currentColor;}strike{border-image:none;}strike{font-size:100%;}strike{font:inherit;}#sun{margin-left:-.5em;}strong{border-left-width:0;}strong{border-bottom-width:0;}strong{border-right-width:0;}strong{border-top-width:0;}strong{border-left-style:none;}strong{border-bottom-style:none;}dl[class~=infos] dd:after{text-shadow:.010416667in .010416667in .125pc #000;}strong{border-right-style:none;}strong{border-top-style:none;}strong{border-left-color:currentColor;}strong{border-bottom-color:currentColor;}strong{border-right-color:currentColor;}strong{border-top-color:currentColor;}strong{border-image:none;}strong{font-size:100%;}strong{font:inherit;}strong,sub{vertical-align:baseline;}strong,sub{margin-left:0;}sub,strong{margin-bottom:0;}sub,strong{margin-right:0;}sub,strong{margin-top:0;}sub,strong{padding-left:0;}sub,strong{padding-bottom:0;}strong,sub{padding-right:0;}sub,strong{padding-top:0;}sub{border-left-width:0;}sub{border-bottom-width:0;}sub{border-right-width:0;}[class~=ring]{top:50%;}sub{border-top-width:0;}sub{border-left-style:none;}sub{border-bottom-style:none;}sub{border-right-style:none;}sub{border-top-style:none;}sub{border-left-color:currentColor;}[class~=ring]{left:50%;}sub{border-bottom-color:currentColor;}sub{border-right-color:currentColor;}sub{border-top-color:currentColor;}sub{border-image:none;}sub{font-size:100%;}sub{font:inherit;}summary{border-left-width:0;}summary{border-bottom-width:0;}summary{border-right-width:0;}[class~=ring]{position:absolute;}#saturn [class~=ring]:after{box-sizing:border-box;}summary{border-top-width:0;}summary{border-left-style:none;}summary{border-bottom-style:none;}summary{border-right-style:none;}summary{border-top-style:none;}summary{border-left-color:currentColor;}summary{border-bottom-color:currentColor;}summary{border-right-color:currentColor;}summary{border-top-color:currentColor;}summary{border-image:none;}summary{font-size:100%;}summary{font:inherit;}summary,sup{vertical-align:baseline;}sup,summary{margin-left:0;}sup,summary{margin-bottom:0;}sup,summary{margin-right:0;}summary,sup{margin-top:0;}summary,sup{padding-left:0;}#navbar{height:36pt;}summary,sup{padding-bottom:0;}#saturn .ring{border-bottom-style:solid;}#navbar{padding-left:12pt;}summary,sup,table,tbody{padding-right:0;}summary,tbody,sup,table{padding-top:0;}sup{border-left-width:0;}sup{border-bottom-width:0;}sup{border-right-width:0;}sup{border-top-width:0;}sup{border-left-style:none;}sup{border-bottom-style:none;}sup{border-right-style:none;}sup{border-top-style:none;}sup{border-left-color:currentColor;}sup{border-bottom-color:currentColor;}sup{border-right-color:currentColor;}sup{border-top-color:currentColor;}sup{border-image:none;}sup{font-size:100%;}sup{font:inherit;}table{border-left-width:0;}table{border-bottom-width:0;}table{border-right-width:0;}table{border-top-width:0;}table{border-left-style:none;}table{border-bottom-style:none;}table{border-right-style:none;}table{border-top-style:none;}table{border-left-color:currentColor;}table{border-bottom-color:currentColor;}table{border-right-color:currentColor;}table{border-top-color:currentColor;}table{border-image:none;}table{font-size:100%;}table{font:inherit;}tbody,table{vertical-align:baseline;}tbody,table{margin-left:0;}table,tbody{margin-bottom:0;}table,tbody{margin-right:0;}tbody,table{margin-top:0;}tbody,table{padding-left:0;}table,tbody{padding-bottom:0;}#saturn [class~=ring]:after{box-sizing:border-box;}tbody{border-left-width:0;}tbody{border-bottom-width:0;}tbody{border-right-width:0;}[class~=pos]{position:absolute;}tbody{border-top-width:0;}tbody{border-left-style:none;}tbody{border-bottom-style:none;}tbody{border-right-style:none;}tbody{border-top-style:none;}tbody{border-left-color:currentColor;}tbody{border-bottom-color:currentColor;}tbody{border-right-color:currentColor;}tbody{border-top-color:currentColor;}tbody{border-image:none;}tbody{font-size:100%;}tbody{font:inherit;}[class~=pos]{top:50%;}td{border-left-width:0;}td{border-bottom-width:0;}td{border-right-width:0;}td{border-top-width:0;}td{border-left-style:none;}td{border-bottom-style:none;}td{border-right-style:none;}td{border-top-style:none;}td{border-left-color:currentColor;}td{border-bottom-color:currentColor;}td{border-right-color:currentColor;}td{border-top-color:currentColor;}td{border-image:none;}td{font-size:100%;}td{font:inherit;}td,tfoot{vertical-align:baseline;}#navbar{padding-bottom:12pt;}tfoot,td{margin-left:0;}td,tfoot{margin-bottom:0;}#saturn .ring{border-right-style:solid;}td,thead,tfoot,th{margin-right:0;}th,td,tfoot,thead{margin-top:0;}td,thead,tfoot,th{padding-left:0;}tfoot,th,td,thead{padding-bottom:0;}td,tfoot,thead,th{padding-right:0;}td,tfoot,thead,th{padding-top:0;}tfoot{border-left-width:0;}tfoot{border-bottom-width:0;}tfoot{border-right-width:0;}tfoot{border-top-width:0;}tfoot{border-left-style:none;}tfoot{border-bottom-style:none;}tfoot{border-right-style:none;}tfoot{border-top-style:none;}tfoot{border-left-color:currentColor;}#navbar{padding-right:12pt;}tfoot{border-bottom-color:currentColor;}tfoot{border-right-color:currentColor;}tfoot{border-top-color:currentColor;}tfoot{border-image:none;}tfoot{font-size:100%;}tfoot{font:inherit;}th{border-left-width:0;}th{border-bottom-width:0;}th{border-right-width:0;}th{border-top-width:0;}th{border-left-style:none;}th{border-bottom-style:none;}th{border-right-style:none;}th{border-top-style:none;}th{border-left-color:currentColor;}th{border-bottom-color:currentColor;}th{border-right-color:currentColor;}th{border-top-color:currentColor;}th{border-image:none;}th{font-size:100%;}th{font:inherit;}thead,th{vertical-align:baseline;}thead,th{margin-left:0;}thead,th{margin-bottom:0;}thead{border-left-width:0;}q:before{content:none;}thead{border-bottom-width:0;}thead{border-right-width:0;}thead{border-top-width:0;}thead{border-left-style:none;}thead{border-bottom-style:none;}thead{border-right-style:none;}thead{border-top-style:none;}thead{border-left-color:currentColor;}thead{border-bottom-color:currentColor;}#navbar{padding-top:12pt;}thead{border-right-color:currentColor;}thead{border-top-color:currentColor;}thead{border-image:none;}thead{font-size:100%;}thead{font:inherit;}#saturn .ring{border-top-style:solid;}[class~=pos]{width:2em;}time{border-left-width:0;}time{border-bottom-width:0;}time{border-right-width:0;}time{border-top-width:0;}time{border-left-style:none;}time{border-bottom-style:none;}time{border-right-style:none;}time{border-top-style:none;}time{border-left-color:currentColor;}[class~=pos]{height:2em;}time{border-bottom-color:currentColor;}time{border-right-color:currentColor;}time{border-top-color:currentColor;}time{border-image:none;}time{font-size:100%;}time{font:inherit;}tr,time{vertical-align:baseline;}time,tr{margin-left:0;}tr,time{margin-bottom:0;}time,tr{margin-right:0;}tr,time{margin-top:0;}tr,time{padding-left:0;}time,tr{padding-bottom:0;}time,tr{padding-right:0;}tr,time{padding-top:0;}tr{border-left-width:0;}#sun{z-index:1;}tr{border-bottom-width:0;}tr{border-right-width:0;}tr{border-top-width:0;}tr{border-left-style:none;}#sun{background-image:url("textures/sun.png");}tr{border-bottom-style:none;}tr{border-right-style:none;}tr{border-top-style:none;}tr{border-left-color:currentColor;}tr{border-bottom-color:currentColor;}tr{border-right-color:currentColor;}#navbar{width:100%;}tr{border-top-color:currentColor;}tr{border-image:none;}tr{font-size:100%;}tr{font:inherit;}[class~=pos]{margin-top:-1em;}tt{border-left-width:0;}tt{border-bottom-width:0;}tt{border-right-width:0;}tt{border-top-width:0;}#mercury{z-index:10;}tt{border-left-style:none;}tt{border-bottom-style:none;}tt{border-right-style:none;}tt{border-top-style:none;}tt{border-left-color:currentColor;}tt{border-bottom-color:currentColor;}#venus{z-index:9;}tt{border-right-color:currentColor;}tt{border-top-color:currentColor;}tt{border-image:none;}tt{font-size:100%;}tt{font:inherit;}tt,u{vertical-align:baseline;}u,tt{margin-left:0;}tt,u{margin-bottom:0;}tt,u{margin-right:0;}u,tt{margin-top:0;}u,tt{padding-left:0;}tt,u{padding-bottom:0;}[class~=pos]{margin-left:-1em;}tt,u{padding-right:0;}tt,u{padding-top:0;}u{border-left-width:0;}u{border-bottom-width:0;}u{border-right-width:0;}u{border-top-width:0;}u{border-left-style:none;}u{border-bottom-style:none;}u{border-right-style:none;}u{border-top-style:none;}[class~=pos]{animation-name:invert;}u{border-left-color:currentColor;}u{border-bottom-color:currentColor;}u{border-right-color:currentColor;}u{border-top-color:currentColor;}u{border-image:none;}u{font-size:100%;}u{font:inherit;}#earth{z-index:8;}ul{border-left-width:0;}ul{border-bottom-width:0;}ul{border-right-width:0;}ul{border-top-width:0;}ul{border-left-style:none;}ul{border-bottom-style:none;}ul{border-right-style:none;}ul{border-top-style:none;}ul{border-left-color:currentColor;}ul{border-bottom-color:currentColor;}ul{border-right-color:currentColor;}ul{border-top-color:currentColor;}ul{border-image:none;}ul{font-size:100%;}#moon{z-index:7;}ul{font:inherit;}ul,video,var{vertical-align:baseline;}#saturn .ring{border-left-color:rgba(160,147,130,.7);}video,var,ul{margin-left:0;}ul,video,var{margin-bottom:0;}ul,var,video{margin-right:0;}ul,var{margin-top:0;}ul,var{padding-left:0;}var,ul{padding-bottom:0;}var,ul{padding-right:0;}ul,var{padding-top:0;}var{border-left-width:0;}var{border-bottom-width:0;}var{border-right-width:0;}var{border-top-width:0;}var{border-left-style:none;}var{border-bottom-style:none;}var{border-right-style:none;}var{border-top-style:none;}var{border-left-color:currentColor;}var{border-bottom-color:currentColor;}var{border-right-color:currentColor;}var{border-top-color:currentColor;}var{border-image:none;}var{font-size:100%;}var{font:inherit;}video{border-left-width:0;}video{border-bottom-width:0;}video{border-right-width:0;}video{border-top-width:0;}video{border-left-style:none;}video{border-bottom-style:none;}video{border-right-style:none;}video{border-top-style:none;}video{border-left-color:currentColor;}video{border-bottom-color:currentColor;}video{border-right-color:currentColor;}video{border-top-color:currentColor;}video{border-image:none;}video{font-size:100%;}video{font:inherit;}[class~=pos]{transition-property:top,left;}#mars{z-index:6;}[class~=planet]{width:1em;}video{margin-top:0;}video{padding-left:0;}video{padding-bottom:0;}video{padding-right:0;}video{padding-top:0;}section,aside,nav,menu,article,hgroup,footer,figcaption,details,header,figure{display:block;}#saturn .ring{border-bottom-color:rgba(160,147,130,.7);}body{line-height:1;}[class~=planet]{height:1em;}body{font-size:10px;}#jupiter{z-index:5;}body{font-family:"Open Sans",sans-serif;}body{font-weight:300;}body{background-color:#08090a;}body{user-select:none;}body{background-image:url("textures/space.jpg");}h1{font-size:.875pc;}ol,ul{list-style:none;}blockquote,q{quotes:none;}table{border-collapse:collapse;}table{border-spacing:0;}.zoom-large #solar-system,h1{width:100%;}dl[class~=infos] dd:after{color:#fff;}[class~=planet]{margin-top:-.5em;}#saturn{z-index:4;}[class~=planet]{margin-left:-.5em;}#uranus{z-index:3;}#saturn .ring{border-right-color:rgba(160,147,130,.7);}[class~=planet]{background-color:#202020;}#saturn .ring{border-top-color:rgba(160,147,130,.7);}#saturn .ring{border-image:none;}#neptune{z-index:2;}*{box-sizing:border-box;}@keyframes orbit{0%{transform:rotateZ(0);}100%{transform:rotateZ(-360deg);}}@keyframes suborbit{0%{transform:rotateX(90deg) rotateZ(0);}100%{transform:rotateX(90deg) rotateZ(-360deg);}}@keyframes invert{0%{transform:rotateX(-90deg) rotateY(360deg) rotateZ(0);}100%{transform:rotateX(-90deg) rotateY(0) rotateZ(0);}}[class~=view-3D] [class~=opening] [class~=orbit],.view-3D .opening .planet,[class~=view-3D] [class~=opening] [class~=pos],[class~=view-3D] [class~=opening] #sun{transition-duration:4s;}[class~=view-2D][class~=zoom-large] #sun{transform-style:flat;}.zoom-large.view-2D .scale-stretched #solar-system{font-size:26%;}[class~=view-3D][class~=zoom-large] #sun{transform-style:preserve-3d;}[class~=zoom-close] [class~=scale-stretched] #solar-system{margin-left:-100%;}[class~=zoom-close] [class~=scale-d] #solar-system{margin-left:-106%;}[class~=zoom-close] [class~=scale-s] #solar-system{margin-left:-145%;}#earth [class~=orbit] [class~=pos]{animation-duration:.89764s;}[class~=scale-stretched] #mercury [class~=planet]{font-size:1.5em;}[class~=scale-stretched] #venus [class~=planet]{font-size:3.72em;}[class~=view-3D] [class~=planet],[class~=view-2D] [class~=ring],[class~=view-3D] [class~=moon],[class~=view-2D] #sun{transform:rotateX(0);}[class~=set-speed] #apophis dl[class~=infos] dd:after{content:"107,928 km/h";}[class~=scale-stretched] #earth [class~=planet]{font-size:3.92em;}.view-3D #solar-system{transform:rotateX(75deg);}.scale-stretched #earth .moon{font-size:1.2em;}[class~=scale-stretched] #mars [class~=planet]{font-size:2.9em;}[class~=view-3D] #sun{transform:rotateX(-90deg);}.scale-stretched #jupiter .planet{font-size:12em;}[class~=scale-stretched] #saturn [class~=planet]{font-size:10.8em;}[class~=scale-stretched] #uranus [class~=planet]{font-size:4.68em;}.scale-stretched #neptune .planet{font-size:4.9em;}[class~=zoom-close] #solar-system{width:200%;}[class~=scale-d] #mercury [class~=planet]{font-size:.14634em;}[class~=set-size] #earth dl[class~=infos] dd:after{content:"1.06696 km";}[class~=scale-d] #venus [class~=planet]{font-size:.36306em;}[class~=set-distance] #sun dl[class~=infos] dd span:after{content:"From Earth";}[class~=set-distance] #earth dl[class~=infos] dd:after{content:"137,000,000 km";}.scale-d #earth .planet{font-size:.38226em;}.set-speed #bennu dl.infos dd:after{content:"101,000 km/h";}[class~=scale-d] #earth [class~=moon]{font-size:.08226em;}[class~=zoom-close] #solar-system{font-size:100%;}[class~=scale-d] #mars [class~=planet]{font-size:.20334em;}#mercury [class~=planet],#mercury [class~=pos],#mercury[class~=orbit]{animation-duration:2.89016s;}[class~=scale-d] #jupiter [class~=planet]{font-size:4.19466em;}[class~=scale-d] #saturn [class~=planet]{font-size:3.49392em;}[class~=set-size] #bennu dl[class~=infos] dd:after{content:"1.640 km";}.scale-d #uranus .planet{font-size:1.52172em;}[class~=scale-d] #neptune [class~=planet]{font-size:1.47732em;}.scale-s #mercury .planet{font-size:1.4634em;}#venus [class~=pos],#venus [class~=planet],#venus.orbit{animation-duration:7.38237s;}.scale-s #venus .planet{font-size:3.6306em;}[class~=scale-s] #earth [class~=planet]{font-size:3.8226em;}.scale-s #earth .moon{font-size:.8226em;}[class~=scale-s] #mars [class~=planet]{font-size:2.0334em;}#earth [class~=planet],#earth .pos,#earth.orbit{animation-duration:12.00021s;}[class~=scale-s] #jupiter [class~=planet]{font-size:41.9466em;}[class~=scale-s] #saturn [class~=planet]{font-size:34.9392em;}[class~=view-2D] [class~=planet],[class~=view-2D] [class~=moon]{transform:rotateX(90deg);}[class~=scale-s] #uranus [class~=planet]{font-size:15.2172em;}[class~=view-3D] [class~=opening] [class~=ring],[class~=view-3D] [class~=opening] [class~=satelite]{transition-duration:4s;}[class~=scale-s] #neptune [class~=planet]{font-size:14.7732em;}.scale-stretched #mercury.orbit{width:32em;}.scale-stretched #mercury.orbit{height:32em;}.scale-stretched #mercury.orbit{margin-top:-16em;}#earth [class~=orbit]{animation-duration:.89764s;}.scale-stretched #mercury.orbit{margin-left:-16em;}[class~=scale-stretched] #venus[class~=orbit]{width:40em;}[class~=scale-stretched] #venus[class~=orbit]{height:40em;}[class~=zoom-large][class~=view-3D] [class~=scale-stretched] #solar-system{font-size:62%;}[class~=zoom-large][class~=view-2D] [class~=scale-d] #solar-system{font-size:22%;}[class~=scale-stretched] #venus[class~=orbit]{margin-top:-20em;}[class~=scale-stretched] #venus[class~=orbit]{margin-left:-20em;}#mars .pos,#mars[class~=orbit],#mars .planet{animation-duration:22.57017s;}[class~=scale-stretched] #earth[class~=orbit]{width:56em;}[class~=scale-stretched] #earth[class~=orbit]{height:56em;}[class~=scale-stretched] #earth[class~=orbit]{margin-top:-28em;}[class~=zoom-large][class~=view-3D] [class~=scale-d] #solar-system{font-size:48%;}[class~=scale-stretched] #earth[class~=orbit]{margin-left:-28em;}[class~=scale-stretched] #earth [class~=orbit]{width:6em;}[class~=set-distance] #bennu dl[class~=infos] dd:after{content:"168,000,000 km";}[class~=set-speed] #sun dl[class~=infos] dd:after{content:"0 km/h";}#jupiter[class~=orbit],#jupiter [class~=planet],#jupiter .pos{animation-duration:142.35138s;}[class~=scale-stretched] #earth [class~=orbit]{height:6em;}[class~=scale-stretched] #earth [class~=orbit]{margin-top:-3em;}[class~=scale-stretched] #earth [class~=orbit]{margin-left:-3em;}[class~=scale-stretched] #mars[class~=orbit]{width:72em;}#saturn [class~=pos],#saturn [class~=ring],#saturn [class~=planet],#saturn.orbit{animation-duration:353.36998s;}[class~=scale-stretched] #mars[class~=orbit]{height:72em;}.set-speed #mercury dl.infos dd:after{content:"170,503 km/h";}[class~=scale-stretched] #mars[class~=orbit]{margin-top:-36em;}[class~=scale-stretched] #mars[class~=orbit]{margin-left:-36em;}[class~=scale-stretched] #jupiter[class~=orbit]{width:100em;}[class~=zoom-large][class~=view-2D] [class~=scale-s] #solar-system{font-size:7%;}[class~=set-speed] #venus dl[class~=infos] dd:after{content:"126,074 km/h";}[class~=zoom-large][class~=view-3D] [class~=scale-s] #solar-system{font-size:14%;}[class~=scale-stretched] #jupiter[class~=orbit]{height:100em;}[class~=scale-stretched] #jupiter[class~=orbit]{margin-top:-50em;}[class~=scale-stretched] #jupiter[class~=orbit]{margin-left:-50em;}[class~=scale-stretched] #saturn[class~=orbit]{width:150em;}[class~=scale-stretched] #saturn[class~=orbit]{height:150em;}[class~=scale-stretched] #saturn[class~=orbit]{margin-top:-75em;}[class~=scale-stretched] #saturn[class~=orbit]{margin-left:-75em;}.scale-stretched #uranus.orbit{width:186em;}.scale-stretched #uranus.orbit{height:186em;}.scale-stretched #uranus.orbit{margin-top:-93em;}.scale-stretched #uranus.orbit{margin-left:-93em;}[class~=scale-stretched] #neptune[class~=orbit]{width:210em;}[class~=scale-stretched] #neptune[class~=orbit]{height:210em;}#uranus[class~=orbit],#uranus .pos,#uranus [class~=planet]{animation-duration:1008.20215s;}[class~=scale-stretched] #neptune[class~=orbit]{margin-top:-105em;}[class~=scale-stretched] #neptune[class~=orbit]{margin-left:-105em;}[class~=set-speed] #earth dl[class~=infos] dd:after{content:"107,218 km/h";}[class~=scale-stretched] #apophis[class~=orbit]{width:51em;}[class~=scale-stretched] #apophis[class~=orbit]{height:52em;}[class~=scale-stretched] #apophis[class~=orbit]{margin-top:-32em;}[class~=scale-stretched] #apophis[class~=orbit]{margin-left:-27em;}[class~=set-speed] #mars dl[class~=infos] dd:after{content:"86,677 km/h";}[class~=scale-s] #apophis[class~=orbit]{width:470.3048em;}#neptune .pos,#neptune .planet,#neptune.orbit{animation-duration:1977.49584s;}[class~=set-speed] #jupiter dl[class~=infos] dd:after{content:"47,002 km/h";}[class~=scale-s] #apophis[class~=orbit]{height:481.3048em;}[class~=scale-s] #apophis[class~=orbit]{margin-top:-244.6524em;}[class~=scale-stretched] #sun{font-size:24em;}[class~=scale-s] #apophis[class~=orbit]{margin-left:-237.6524em;}.scale-d #apophis.orbit{width:49.50959em;}.scale-d #apophis.orbit{height:49.50959em;}.view-2D.zoom-large .orbit{transform-style:flat;}.scale-d #apophis.orbit{margin-top:-24.75479em;}.scale-d #apophis.orbit{margin-left:-25.5em;}[class~=scale-d] #sun{font-size:41.73048em;}[class~=scale-stretched] #bennu[class~=orbit]{width:53em;}[class~=scale-s] #sun{font-size:417.3048em;}[class~=set-speed] dl[class~=infos] dd span:after{content:"Orbit Velocity";}[class~=scale-stretched] #bennu[class~=orbit]{height:60em;}[class~=set-speed] #saturn dl[class~=infos] dd:after{content:"34,701 km/h";}[class~=view-3D] [class~=ring]{transform:rotateX(90deg);}#apophis [class~=pos],#mars .pos,#bennu [class~=pos]{left:50%;}[class~=zoom-close][class~=view-2D] [class~=planet],[class~=zoom-close][class~=view-2D] [class~=moon]{transform:rotateX(0);}[class~=scale-stretched] #bennu[class~=orbit]{margin-top:-30em;}[class~=scale-stretched] #bennu[class~=orbit]{margin-left:-27em;}[class~=set-speed] #uranus dl[class~=infos] dd:after{content:"24,477 km/h";}#universe[class~=opening] #sun{box-shadow:0 0 0 rgba(255,160,60,0);}.zoom-close .orbit{animation:none !important;}[class~=scale-s] #bennu[class~=orbit]{width:474.3048em;}#apophis [class~=pos],#mars .pos,#bennu [class~=pos]{top:100%;}[class~=scale-s] #bennu[class~=orbit]{height:469.3048em;}[class~=scale-s] #bennu[class~=orbit]{margin-top:-237.6524em;}[class~=set-speed] #neptune dl[class~=infos] dd:after{content:"19,566 km/h";}[class~=zoom-close][class~=view-2D] [class~=scale-d] #solar-system,[class~=zoom-close][class~=view-3D] [class~=scale-d] #solar-system{font-size:84%;}[class~=scale-s] #bennu[class~=orbit]{margin-left:-238.6524em;}[class~=scale-d] #bennu[class~=orbit]{width:49.50959em;}[class~=scale-d] #bennu[class~=orbit]{height:49.50959em;}.set-size #sun dl.infos dd:after{content:"4,370,005 km";}[class~=scale-d] #bennu[class~=orbit]{margin-top:-24em;}[class~=scale-d] #bennu[class~=orbit]{margin-left:-25.1em;}[class~=scale-d] #mercury[class~=orbit]{width:44.74176em;}[class~=set-size] #mercury dl[class~=infos] dd:after{content:"15,329 km";}[class~=scale-d] #mercury[class~=orbit]{height:44.74176em;}[class~=zoom-close][class~=view-2D] [class~=scale-s] #solar-system,[class~=zoom-close][class~=view-3D] [class~=scale-s] #solar-system{font-size:40%;}[class~=scale-d] #mercury[class~=orbit]{margin-top:-22.37088em;}[class~=scale-d] #mercury[class~=orbit]{margin-left:-22.37088em;}.scale-d #venus.orbit{width:47.35737em;}.scale-d #venus.orbit{height:47.35737em;}.set-size #venus dl.infos dd:after{content:"38,024 km";}.scale-d #venus.orbit{margin-top:-23.67869em;}.scale-d #venus.orbit{margin-left:-23.67869em;}[class~=scale-d] #earth[class~=orbit]{width:49.50959em;}[class~=scale-d] #earth[class~=orbit]{height:49.50959em;}[class~=scale-d] #earth[class~=orbit]{margin-top:-24.75479em;}.set-size #earth dl.infos dd:after{content:"40,030 km";}[class~=scale-d] #earth[class~=orbit]{margin-left:-24.75479em;}[class~=scale-d] #mars[class~=orbit]{width:53.58356em;}[class~=scale-d] #mars[class~=orbit]{height:53.58356em;}[class~=scale-d] #mars[class~=orbit]{margin-top:-26.79178em;}[class~=scale-d] #mars[class~=orbit]{margin-left:-26.79178em;}[class~=scale-d] #jupiter[class~=orbit]{width:82.2042em;}[class~=scale-d] #jupiter[class~=orbit]{height:82.2042em;}[class~=scale-d] #jupiter[class~=orbit]{margin-top:-41.1021em;}.set-size #mars dl.infos dd:after{content:"21,296 km";}[class~=set-size] #jupiter dl[class~=infos] dd:after{content:"439,263 km";}[class~=zoom-close][class~=view-3D] [class~=moon]{transform:rotateX(90deg);}[class~=view-3D][class~=zoom-large] [class~=orbit]{transform-style:preserve-3d;}[class~=scale-d] #jupiter[class~=orbit]{margin-left:-41.1021em;}#apophis [class~=planet]{background:red;}#apophis [class~=planet],#apophis[class~=orbit],#apophis [class~=pos]{animation-duration:12.07967s;}[class~=scale-d] #saturn[class~=orbit]{width:115.91713em;}[class~=scale-d] #saturn[class~=orbit]{height:115.91713em;}[class~=scale-d] #saturn[class~=orbit]{margin-top:-57.95857em;}[class~=scale-d] #saturn[class~=orbit]{margin-left:-57.95857em;}#bennu .planet{background:#ff0;}[class~=scale-d] #uranus[class~=orbit]{width:191.00471em;}[class~=scale-d] #uranus[class~=orbit]{height:191.00471em;}[class~=scale-d] #uranus[class~=orbit]{margin-top:-95.50235em;}[class~=set-size] #saturn dl[class~=infos] dd:after{content:"365,882 km";}[class~=scale-d] #uranus[class~=orbit]{margin-left:-95.50235em;}#bennu [class~=planet],#bennu[class~=orbit],#bennu [class~=pos]{animation-duration:11.2297s;}[class~=scale-d] #neptune[class~=orbit]{width:275.64709em;}[class~=scale-d] #neptune[class~=orbit]{height:275.64709em;}[class~=scale-d] #neptune[class~=orbit]{margin-top:-137.82355em;}[class~=scale-d] #neptune[class~=orbit]{margin-left:-137.82355em;}[class~=set-size] #uranus dl[class~=infos] dd:after{content:"159,354 km";}[class~=scale-d] #earth [class~=orbit],.scale-s #earth .orbit{width:1em;}[class~=zoom-close] [class~=ring],[class~=zoom-close] [class~=planet],[class~=zoom-close] [class~=satelite],[class~=zoom-close] [class~=pos]{animation:none !important;}[class~=set-size] #neptune dl[class~=infos] dd:after{content:"154,704 km";}[class~=zoom-close][class~=view-3D] [class~=planet]{transform:rotateX(-90deg);}[class~=scale-d] #earth [class~=orbit],.scale-s #earth .orbit{height:1em;}.scale-s #earth .orbit,[class~=scale-d] #earth [class~=orbit]{margin-top:-.5em;}.set-distance #sun dl.infos dd:after,.set-distance #earth dl.infos dd:after{content:"149,598,262 km";}[class~=scale-d] #earth [class~=orbit],.scale-s #earth .orbit{margin-left:-.5em;}[class~=set-distance] #mercury dl[class~=infos] dd:after{content:"57,909,227 km";}[class~=set-distance] #venus dl[class~=infos] dd:after{content:"108,209,475 km";}[class~=scale-s] #mercury[class~=orbit]{width:441.3048em;}[class~=set-distance] #mars dl[class~=infos] dd:after{content:"227,943,824 km";}[class~=scale-s] #mercury[class~=orbit]{height:441.3048em;}#mercury [class~=pos]{left:50%;}[class~=scale-s] #mercury[class~=orbit]{margin-top:-220.6524em;}[class~=scale-s] #mercury[class~=orbit]{margin-left:-220.6524em;}[class~=scale-s] #venus[class~=orbit]{width:457.3048em;}[class~=scale-s] #venus[class~=orbit]{height:457.3048em;}[class~=set-distance] #jupiter dl[class~=infos] dd:after{content:"778,340,821 km";}#mercury [class~=pos]{top:-1%;}[class~=scale-s] #venus[class~=orbit]{margin-top:-228.6524em;}#mercury [class~=planet]{animation-name:shadow-mercury;}[class~=scale-s] #venus[class~=orbit]{margin-left:-228.6524em;}[class~=scale-s] #earth[class~=orbit]{width:473.3048em;}[class~=scale-s] #earth[class~=orbit]{height:473.3048em;}[class~=scale-s] #earth[class~=orbit]{margin-top:-236.6524em;}[class~=scale-s] #earth[class~=orbit]{margin-left:-236.6524em;}[class~=scale-s] #mars[class~=orbit]{width:489.3048em;}[class~=scale-s] #mars[class~=orbit]{height:489.3048em;}dl.infos:before,dl.infos{transform-style:preserve-3d;}[class~=scale-s] #mars[class~=orbit]{margin-top:-244.6524em;}[class~=scale-s] #mars[class~=orbit]{margin-left:-244.6524em;}.scale-s #jupiter.orbit{width:561.3048em;}.scale-s #jupiter.orbit{height:561.3048em;}.scale-s #jupiter.orbit{margin-top:-280.6524em;}.scale-s #jupiter.orbit{margin-left:-280.6524em;}[class~=scale-s] #saturn[class~=orbit]{width:705.3048em;}[class~=scale-s] #saturn[class~=orbit]{height:705.3048em;}[class~=scale-s] #saturn[class~=orbit]{margin-top:-352.6524em;}[class~=scale-s] #saturn[class~=orbit]{margin-left:-352.6524em;}.scale-s #uranus.orbit{width:817.3048em;}.scale-s #uranus.orbit{height:817.3048em;}.scale-s #uranus.orbit{margin-top:-408.6524em;}.scale-s #uranus.orbit{margin-left:-408.6524em;}[class~=scale-s] #neptune[class~=orbit]{width:881.3048em;}[class~=scale-s] #neptune[class~=orbit]{height:881.3048em;}[class~=scale-s] #neptune[class~=orbit]{margin-top:-440.6524em;}[class~=scale-s] #neptune[class~=orbit]{margin-left:-440.6524em;}.set-distance #saturn dl.infos dd:after{content:"1,426,666,422 km";}.set-distance #uranus dl.infos dd:after{content:"2,870,658,186 km";}[class~=zoom-close] [class~=pos]{left:100% !important;}[class~=set-distance] #neptune dl[class~=infos] dd:after{content:"4,498,396,441 km";}[class~=zoom-close] [class~=pos]{top:50% !important;}.set-size dl.infos dd span:after{content:"Equatorial Circumference";}[class~=set-distance] dl[class~=infos] dd span:after{content:"From Sun";}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+/*
+  Copyright (c) 2012 Julian Garnier
+  Licensed under the MIT license
+*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background-color: #08090A; }
+
+#universe {
+  z-index: 1;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-position: center 40%;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#galaxy {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  perspective: 4000;
+}
+
+#solar-system {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d; }
+
+.orbit {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  transform-style: preserve-3d;
+  animation-name: orbit;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; }
+
+.orbit .orbit {
+  animation-name: suborbit; }
+
+.pos {
+  position: absolute;
+  top: 50%;
+  width: 2em;
+  height: 2em;
+  margin-top: -1em;
+  margin-left: -1em;
+  transform-style: preserve-3d;
+  animation-name: invert;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; }
+
+#sun, .planet, #earth .moon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  margin-left: -0.5em;
+  border-radius: 50%;
+  transform-style: preserve-3d; }
+
+#sun {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.planet {
+  background-color: #202020;
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; }
+
+.ring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%; }
+
+#saturn .ring {
+  width: 2em;
+  height: 2em;
+  margin-top: -1em;
+  margin-left: -1em;
+  border: 0.3em solid rgba(160, 147, 130, 0.7);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; }
+
+#saturn .ring:after {
+  border-radius: 50%;
+  position: absolute;
+  content: '';
+  top: 50%;
+  left: 50%;
+  width: 2.2em;
+  height: 2.2em;
+  margin-top: -1.1em;
+  margin-left: -1.1em;
+  border: 0.07em solid rgba(160, 147, 130, 0.5);
+  box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* --------------------------------------------------------------------------- planets index */
+#mercury {
+  z-index: 10; }
+
+#venus {
+  z-index: 9; }
+
+#earth {
+  z-index: 8; }
+
+#moon {
+  z-index: 7; }
+
+#mars {
+  z-index: 6; }
+
+#jupiter {
+  z-index: 5; }
+
+#saturn {
+  z-index: 4; }
+
+#uranus {
+  z-index: 3; }
+
+#neptune {
+  z-index: 2; }
+
+#sun {
+  z-index: 1; }
+
+/* --------------------------------------------------------------------------- animations */
+@keyframes orbit {
+  0% {
+    transform: rotateZ(0deg); }
+
+  100% {
+    transform: rotateZ(-360deg); } }
+
+@keyframes suborbit {
+  0% {
+    transform: rotateX(90deg) rotateZ(0deg); }
+
+  100% {
+    transform: rotateX(90deg) rotateZ(-360deg); } }
+
+@keyframes invert {
+  0% {
+    transform: rotateX(-90deg) rotateY(360deg) rotateZ(0deg); }
+
+  100% {
+    transform: rotateX(-90deg) rotateY(0deg) rotateZ(0deg); } }
+
+/* --------------------------------------------------------------------------- opening */
+.view-3D .opening #sun,
+.view-3D .opening .orbit,
+.view-3D .opening .pos,
+.view-3D .opening .planet,
+.view-3D .opening .satelite,
+.view-3D .opening .ring {
+  transition-duration: 4s; }
+
+#universe.opening #sun {
+  box-shadow: 0 0 0 rgba(255, 160, 60, 0); }
+
+/* --------------------------------------------------------------------------- 2D view */
+.view-2D.zoom-large #sun {
+  transform-style: flat; }
+
+.view-2D.zoom-large .orbit {
+  transform-style: flat; }
+
+.view-2D #sun,
+.view-2D .ring {
+  transform: rotateX(0deg); }
+
+.view-2D .planet,
+.view-2D .moon {
+  transform: rotateX(90deg); }
+
+/* --------------------------------------------------------------------------- 3D view */
+.view-3D.zoom-large #sun {
+  transform-style: preserve-3d; }
+
+.view-3D.zoom-large .orbit {
+  transform-style: preserve-3d; }
+
+.view-3D #solar-system {
+  transform: rotateX(75deg); }
+
+.view-3D #sun {
+  transform: rotateX(-90deg); }
+
+.view-3D .ring {
+  transform: rotateX(90deg); }
+
+.view-3D .planet,
+.view-3D .moon {
+  transform: rotateX(0deg); }
+
+/* --------------------------------------------------------------------------- large zoom */
+.zoom-large #solar-system {
+  width: 100%; }
+
+.zoom-large.view-2D .scale-stretched #solar-system {
+  font-size: 26%; }
+
+.zoom-large.view-3D .scale-stretched #solar-system {
+  font-size: 62%; }
+
+.zoom-large.view-2D .scale-d #solar-system {
+  font-size: 22%; }
+
+.zoom-large.view-3D .scale-d #solar-system {
+  font-size: 48%; }
+
+.zoom-large.view-2D .scale-s #solar-system {
+  font-size: 7%; }
+
+.zoom-large.view-3D .scale-s #solar-system {
+  font-size: 14%; }
+
+/* --------------------------------------------------------------------------- close zoom */
+.zoom-close #solar-system {
+  width: 200%;
+  font-size: 100%; }
+
+.zoom-close .scale-stretched #solar-system {
+  margin-left: -100%; }
+
+.zoom-close .scale-d #solar-system {
+  margin-left: -106%; }
+
+.zoom-close.view-2D .scale-d #solar-system {
+  font-size: 84%; }
+
+.zoom-close.view-3D .scale-d #solar-system {
+  font-size: 84%; }
+
+.zoom-close .scale-s #solar-system {
+  margin-left: -145%; }
+
+.zoom-close.view-2D .scale-s #solar-system {
+  font-size: 40%; }
+
+.zoom-close.view-3D .scale-s #solar-system {
+  font-size: 40%; }
+
+.zoom-close .orbit,
+.zoom-close .pos,
+.zoom-close .planet,
+.zoom-close .satelite,
+.zoom-close .ring {
+  animation-play-state: paused!important;
+  animation-duration: 0s!important;
+  animation: none!important; }
+
+.zoom-close.view-2D .planet,
+.zoom-close.view-2D .moon {
+  transform: rotateX(0deg); }
+
+.zoom-close.view-3D .planet {
+  transform: rotateX(-90deg); }
+
+.zoom-close.view-3D .moon {
+  transform: rotateX(90deg); }
+
+.zoom-close .pos {
+  left: 100%!important;
+  top: 50%!important; }
+
+/* --------------------------------------------------------------------------- data */
+/* --------------------------------------------------------------------------- speed */
+/* sideral years */
+#mercury .pos,
+#mercury .planet,
+#mercury.orbit {
+  animation-duration: 2.89016s; }
+
+#venus .pos,
+#venus .planet,
+#venus.orbit {
+  animation-duration: 7.38237s; }
+
+#earth .pos,
+#earth .planet,
+#earth.orbit {
+  animation-duration: 12.00021s; }
+
+#earth .orbit .pos,
+#earth .orbit {
+  animation-duration: 0.89764s; }
+
+#mars .pos,
+#mars .planet,
+#mars.orbit {
+  animation-duration: 22.57017s; }
+
+#jupiter .pos,
+#jupiter .planet,
+#jupiter.orbit {
+  animation-duration: 142.35138s; }
+
+#saturn .pos,
+#saturn .planet,
+#saturn.orbit,
+#saturn .ring {
+  animation-duration: 353.36998s; }
+
+#uranus .pos,
+#uranus .planet,
+#uranus.orbit {
+  animation-duration: 1008.20215s; }
+
+#neptune .pos,
+#neptune .planet,
+#neptune.orbit {
+  animation-duration: 1977.49584s; }
+
+/* --------------------------------------------------------------------------- planets sizes */
+/* --------------------------------------------------------------------------- stretched sizes */
+.scale-stretched #sun {
+  font-size: 24em; }
+
+.scale-stretched #mercury .planet {
+  font-size: 1.5em; }
+
+.scale-stretched #venus .planet {
+  font-size: 3.72em; }
+
+.scale-stretched #earth .planet {
+  font-size: 3.92em; }
+
+.scale-stretched #earth .moon {
+  font-size: 1.2em; }
+
+.scale-stretched #mars .planet {
+  font-size: 2.9em; }
+
+.scale-stretched #jupiter .planet {
+  font-size: 12em; }
+
+.scale-stretched #saturn .planet {
+  font-size: 10.8em; }
+
+.scale-stretched #uranus .planet {
+  font-size: 4.68em; }
+
+.scale-stretched #neptune .planet {
+  font-size: 4.9em; }
+
+/* --------------------------------------------------------------------------- scaled sizes */
+/*
+(planets radius * 2) * ratio
+*/
+/*$distanceScaleRatio:   0.000075em;*/
+/* --------------------------------------------------------------------------- planets distance scale sizes */
+.scale-d #sun {
+  font-size: 41.73048em; }
+
+.scale-d #mercury .planet {
+  font-size: 0.14634em; }
+
+.scale-d #venus .planet {
+  font-size: 0.36306em; }
+
+.scale-d #earth .planet {
+  font-size: 0.38226em; }
+
+.scale-d #earth .moon {
+  font-size: 0.08226em; }
+
+.scale-d #mars .planet {
+  font-size: 0.20334em; }
+
+.scale-d #jupiter .planet {
+  font-size: 4.19466em; }
+
+.scale-d #saturn .planet {
+  font-size: 3.49392em; }
+
+.scale-d #uranus .planet {
+  font-size: 1.52172em; }
+
+.scale-d #neptune .planet {
+  font-size: 1.47732em; }
+
+/* --------------------------------------------------------------------------- planet size scale sizes */
+.scale-s #sun {
+  font-size: 417.3048em; }
+
+.scale-s #mercury .planet {
+  font-size: 1.4634em; }
+
+.scale-s #venus .planet {
+  font-size: 3.6306em; }
+
+.scale-s #earth .planet {
+  font-size: 3.8226em; }
+
+.scale-s #earth .moon {
+  font-size: 0.8226em; }
+
+.scale-s #mars .planet {
+  font-size: 2.0334em; }
+
+.scale-s #jupiter .planet {
+  font-size: 41.9466em; }
+
+.scale-s #saturn .planet {
+  font-size: 34.9392em; }
+
+.scale-s #uranus .planet {
+  font-size: 15.2172em; }
+
+.scale-s #neptune .planet {
+  font-size: 14.7732em; }
+
+/* --------------------------------------------------------------------------- stretched orbits */
+.scale-stretched #mercury.orbit {
+  width: 32em;
+  height: 32em;
+  margin-top: -16em;
+  margin-left: -16em; }
+
+.scale-stretched #venus.orbit {
+  width: 40em;
+  height: 40em;
+  margin-top: -20em;
+  margin-left: -20em; }
+
+.scale-stretched #earth.orbit {
+  width: 56em;
+  height: 56em;
+  margin-top: -28em;
+  margin-left: -28em; 
+}
+
+.scale-stretched #earth .orbit {
+  width: 6em;
+  height: 6em;
+  margin-top: -3em;
+  margin-left: -3em; }
+
+.scale-stretched #mars.orbit {
+  width: 72em;
+  height: 72em;
+  margin-top: -36em;
+  margin-left: -36em; }
+
+.scale-stretched #jupiter.orbit {
+  width: 100em;
+  height: 100em;
+  margin-top: -50em;
+  margin-left: -50em; }
+
+.scale-stretched #saturn.orbit {
+  width: 150em;
+  height: 150em;
+  margin-top: -75em;
+  margin-left: -75em; }
+
+.scale-stretched #uranus.orbit {
+  width: 186em;
+  height: 186em;
+  margin-top: -93em;
+  margin-left: -93em; }
+
+.scale-stretched #neptune.orbit {
+  width: 210em;
+  height: 210em;
+  margin-top: -105em;
+  margin-left: -105em;
+}
+
+/*
+Asteroids
+
+
+>> search for: .apophis #apophis .infos,
+after setting bellow
+*/
+
+/* Apophis */
+.scale-stretched #apophis.orbit {
+    width: 51em;
+    height: 52em;
+    margin-top: -32em;
+    margin-left: -27em;
+}
+
+.scale-s #apophis.orbit {
+    width: 470.3048em;
+    height: 481.3048em;
+    margin-top: -244.6524em;
+    margin-left: -237.6524em;
+}
+
+.scale-d #apophis.orbit {
+    width: 49.50959em;
+    height: 49.50959em;
+    margin-top: -24.75479em;
+    margin-left: -25.5em;
+}
+
+#apophis .pos {
+    left: 50%;
+    top: 100%;
+}
+
+#apophis .planet {
+    background: red;
+}
+
+#apophis .pos,
+#apophis .planet,
+#apophis.orbit {
+  animation-duration: 12.07967s;
+}
+
+.set-speed #apophis dl.infos dd:after {
+    content: '107,928 km/h'; 
+}
+
+.set-size #earth dl.infos dd:after {
+    content: '1.06696 km'; 
+}
+
+.set-distance #earth dl.infos dd:after {
+    content: '137,000,000 km'
+}
+/* Apophis ends */
+
+/* Bennu */
+.scale-stretched #bennu.orbit {
+    width: 53em;
+    height: 60em;
+    margin-top: -30em;
+    margin-left: -27em;
+}
+
+.scale-s #bennu.orbit {
+    width: 474.3048em;
+    height: 469.3048em;
+    margin-top: -237.6524em;
+    margin-left: -238.6524em;
+}
+
+.scale-d #bennu.orbit {
+    width: 49.50959em;
+    height: 49.50959em;
+    margin-top: -24em;
+    margin-left: -25.1em;
+}
+
+#bennu .pos {
+    left: 50%;
+    top: 100%;
+}
+
+#bennu .planet {
+    background: yellow;
+}
+
+#bennu .pos,
+#bennu .planet,
+#bennu.orbit {
+  animation-duration: 11.22970s;
+}
+
+.set-speed #bennu dl.infos dd:after {
+    content: '101,000 km/h'; 
+}
+
+.set-size #bennu dl.infos dd:after {
+    content: '1.640 km'; 
+}
+
+.set-distance #bennu dl.infos dd:after {
+    content: '168,000,000 km'
+}
+/* Bennu ends */
+
+/* --------------------------------------------------------------------------- scaled orbits */
+/* --------------------------------------------------------------------------- distance scale orbits */
+.scale-d #mercury.orbit {
+  width: 44.74176em;
+  height: 44.74176em;
+  margin-top: -22.37088em;
+  margin-left: -22.37088em; }
+
+.scale-d #venus.orbit {
+  width: 47.35737em;
+  height: 47.35737em;
+  margin-top: -23.67869em;
+  margin-left: -23.67869em; }
+
+.scale-d #earth.orbit {
+  width: 49.50959em;
+  height: 49.50959em;
+  margin-top: -24.75479em;
+  margin-left: -24.75479em; }
+
+.scale-d #mars.orbit {
+  width: 53.58356em;
+  height: 53.58356em;
+  margin-top: -26.79178em;
+  margin-left: -26.79178em; }
+
+.scale-d #jupiter.orbit {
+  width: 82.2042em;
+  height: 82.2042em;
+  margin-top: -41.1021em;
+  margin-left: -41.1021em; }
+
+.scale-d #saturn.orbit {
+  width: 115.91713em;
+  height: 115.91713em;
+  margin-top: -57.95857em;
+  margin-left: -57.95857em; }
+
+.scale-d #uranus.orbit {
+  width: 191.00471em;
+  height: 191.00471em;
+  margin-top: -95.50235em;
+  margin-left: -95.50235em; }
+
+.scale-d #neptune.orbit {
+  width: 275.64709em;
+  height: 275.64709em;
+  margin-top: -137.82355em;
+  margin-left: -137.82355em; }
+
+/* Moon */
+.scale-d #earth .orbit {
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  margin-left: -0.5em; }
+
+
+/* --------------------------------------------------------------------------- size scale orbits */
+.scale-s #mercury.orbit {
+  width: 441.3048em;
+  height: 441.3048em;
+  margin-top: -220.6524em;
+  margin-left: -220.6524em; }
+
+.scale-s #venus.orbit {
+  width: 457.3048em;
+  height: 457.3048em;
+  margin-top: -228.6524em;
+  margin-left: -228.6524em; }
+
+.scale-s #earth.orbit {
+  width: 473.3048em;
+  height: 473.3048em;
+  margin-top: -236.6524em;
+  margin-left: -236.6524em; }
+
+.scale-s #mars.orbit {
+  width: 489.3048em;
+  height: 489.3048em;
+  margin-top: -244.6524em;
+  margin-left: -244.6524em; }
+
+.scale-s #jupiter.orbit {
+  width: 561.3048em;
+  height: 561.3048em;
+  margin-top: -280.6524em;
+  margin-left: -280.6524em; }
+
+.scale-s #saturn.orbit {
+  width: 705.3048em;
+  height: 705.3048em;
+  margin-top: -352.6524em;
+  margin-left: -352.6524em; }
+
+.scale-s #uranus.orbit {
+  width: 817.3048em;
+  height: 817.3048em;
+  margin-top: -408.6524em;
+  margin-left: -408.6524em; }
+
+.scale-s #neptune.orbit {
+  width: 881.3048em;
+  height: 881.3048em;
+  margin-top: -440.6524em;
+  margin-left: -440.6524em; }
+
+/* Moon */
+.scale-s #earth .orbit {
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  margin-left: -0.5em; }
+
+/* --------------------------------------------------------------------------- text infos data */
+/* --------------------------------------------------------------------------- speed */
+.set-speed dl.infos dd span:after {
+  content: 'Orbit Velocity'; }
+
+.set-speed #sun dl.infos dd:after {
+  content: '0 km/h'; }
+
+.set-speed #mercury dl.infos dd:after {
+  content: '170,503 km/h'; }
+
+.set-speed #venus dl.infos dd:after {
+  content: '126,074 km/h'; }
+
+.set-speed #earth dl.infos dd:after {
+  content: '107,218 km/h'; }
+
+.set-speed #mars dl.infos dd:after {
+  content: '86,677 km/h'; }
+
+.set-speed #jupiter dl.infos dd:after {
+  content: '47,002 km/h'; }
+
+.set-speed #saturn dl.infos dd:after {
+  content: '34,701 km/h'; }
+
+.set-speed #uranus dl.infos dd:after {
+  content: '24,477 km/h'; }
+
+.set-speed #neptune dl.infos dd:after {
+  content: '19,566 km/h'; }
+
+/* --------------------------------------------------------------------------- size */
+.set-size dl.infos dd span:after {
+  content: 'Equatorial Circumference'; }
+
+.set-size #sun dl.infos dd:after {
+  content: '4,370,005 km'; }
+
+.set-size #mercury dl.infos dd:after {
+  content: '15,329 km'; }
+
+.set-size #venus dl.infos dd:after {
+  content: '38,024 km'; }
+
+.set-size #earth dl.infos dd:after {
+  content: '40,030 km'; }
+
+.set-size #mars dl.infos dd:after {
+  content: '21,296 km'; }
+
+.set-size #jupiter dl.infos dd:after {
+  content: '439,263 km'; }
+
+.set-size #saturn dl.infos dd:after {
+  content: '365,882 km'; }
+
+.set-size #uranus dl.infos dd:after {
+  content: '159,354 km'; }
+
+.set-size #neptune dl.infos dd:after {
+  content: '154,704 km'; }
+
+/* --------------------------------------------------------------------------- distance */
+.set-distance dl.infos dd span:after {
+  content: 'From Sun'; }
+
+.set-distance #sun dl.infos dd span:after {
+  content: 'From Earth'; }
+
+.set-distance #sun dl.infos dd:after {
+  content: '149,598,262 km'; }
+
+.set-distance #mercury dl.infos dd:after {
+  content: '57,909,227 km'; }
+
+.set-distance #venus dl.infos dd:after {
+  content: '108,209,475 km'; }
+
+.set-distance #earth dl.infos dd:after {
+  content: '149,598,262 km'; }
+
+.set-distance #mars dl.infos dd:after {
+  content: '227,943,824 km'; }
+
+.set-distance #jupiter dl.infos dd:after {
+  content: '778,340,821 km'; }
+
+.set-distance #saturn dl.infos dd:after {
+  content: '1,426,666,422 km'; }
+
+.set-distance #uranus dl.infos dd:after {
+  content: '2,870,658,186 km'; }
+
+.set-distance #neptune dl.infos dd:after {
+  content: '4,498,396,441 km'; }
+
+/* --------------------------------------------------------------------------- planets starting position and lighting effect */
+/* --------------------------------------------------------------------------- mercury ; pos: Top */
+#mercury .pos {
+  left: 50%;
+  top: -1%; }
+
+#mercury .planet {
+  animation-name: shadow-mercury; }
+
+@keyframes shadow-mercury {
+  0% {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  25% {
+    box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  50% {
+    box-shadow: inset 13px -5px 4px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  50.01% {
+    box-shadow: inset -13px -5px 4px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  75% {
+    box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  100% {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5);
+    /* TOP */ } }
+
+.scaled.view-2D #mercury .planet,
+.scaled.view-3D #mercury .planet {
+  box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- venus ; pos: Left */
+#venus .pos {
+  left: 0;
+  top: 50%; }
+
+#venus .planet {
+  animation-name: shadow-venus; }
+
+@keyframes shadow-venus {
+  0% {
+    box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  25% {
+    box-shadow: inset 22px -20px 10px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  25.5% {
+    box-shadow: inset -22px -20px 10px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  50% {
+    box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  75% {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  100% {
+    box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
+    /* LEFT */ } }
+
+.scaled.view-2D #venus .planet,
+.scaled.view-3D #venus .planet {
+  box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- earth ; pos: Right */
+#earth .pos {
+  left: 100%;
+  top: 50%; }
+
+#earth .planet {
+  animation-name: shadow-earth; }
+
+@keyframes shadow-earth {
+  0% {
+    box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  25% {
+    box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  50% {
+    box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  75% {
+    box-shadow: inset 24px -20px 15px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  75.01% {
+    box-shadow: inset -24px -20px 15px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  100% {
+    box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ } }
+
+.scaled.view-2D #earth .planet,
+.scaled.view-3D #earth .planet {
+  box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- moon */
+#earth .orbit .pos {
+  left: 100%;
+  top: 50%; }
+
+/* --------------------------------------------------------------------------- mars ; pos: Bottom */
+#mars .pos {
+  left: 50%;
+  top: 100%; }
+
+#mars .planet {
+  animation-name: shadow-mars; }
+
+@keyframes shadow-mars {
+  0% {
+    box-shadow: inset -18px -10px 10px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  25% {
+    box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  50% {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  75% {
+    box-shadow: inset 4px 0 2px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  99.99% {
+    box-shadow: inset 18px -10px 10px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  100% {
+    box-shadow: inset -18px -10px 10px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ } }
+
+.scaled.view-2D #mars .planet,
+.scaled.view-3D #mars .planet {
+  box-shadow: inset -4px 0 2px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- jupiter ; pos: Right */
+#jupiter .pos {
+  left: 100%;
+  top: 50%; }
+
+#jupiter .planet {
+  animation-name: shadow-jupiter; }
+
+@keyframes shadow-jupiter {
+  0% {
+    box-shadow: inset -16px 0 5px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  25% {
+    box-shadow: inset 0 3px 2px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  50% {
+    box-shadow: inset 16px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  75% {
+    box-shadow: inset 94px -30px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  75.01% {
+    box-shadow: inset -94px -30px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  100% {
+    box-shadow: inset -16px 0 5px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ } }
+
+.scaled.view-2D #jupiter .planet,
+.scaled.view-3D #jupiter .planet {
+  box-shadow: inset -16px 0 5px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- saturn ; pos: Left */
+#saturn .pos {
+  left: 0%;
+  top: 50%; }
+
+#saturn .planet {
+  animation-name: shadow-saturn; }
+
+@keyframes shadow-saturn {
+  0% {
+    box-shadow: inset 16px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  25% {
+    box-shadow: inset 80px -30px 50px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  25.01% {
+    box-shadow: inset -94px -30px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  50% {
+    box-shadow: inset -16px 0 5px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  75% {
+    box-shadow: inset -2px 3px 2px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  100% {
+    box-shadow: inset 16px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ } }
+
+.scaled.view-2D #saturn .planet,
+.scaled.view-3D #saturn .planet {
+  box-shadow: inset -16px 0 5px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- saturn ring */
+/*
+
+#saturn .ring           { animation-name:     shadow-saturn-ring; }
+
+@keyframes 
+shadow-saturn-ring{ 0%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50, 0.45); opacity: .4; }
+                  25%    { box-shadow: inset -5px   -30px   12px  rgba(20, 40, 50, 0.3);  opacity: 1; }
+                  25.01% { box-shadow: inset 5px    -30px   12px  rgba(20, 40, 50, 0.3);  opacity: 1; }
+                  50%    { box-shadow: inset 16px   0      4px   rgba(20, 40, 50, 0.45);  opacity: .4; }
+                  75%    { box-shadow: inset 0      30px  50px  rgba(20, 40, 50, 0);  opacity: .3; }
+                  100%   { box-shadow: inset -16px  0      4px   rgba(20, 40, 50, 0.45);  opacity: .4; }
+                }
+
+.scaled.view-2D #saturn .ring,
+.scaled.view-3D #saturn .ring { box-shadow: inset 16px   0      4px   rgba(20, 40, 50, 0.6); }
+
+*/
+/* --------------------------------------------------------------------------- uranus ; pos: Left */
+#uranus .pos {
+  left: 0;
+  top: 50%; }
+
+#uranus .planet {
+  animation-name: shadow-uranus; }
+
+@keyframes shadow-uranus {
+  0% {
+    box-shadow: inset 8px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  25% {
+    box-shadow: inset 40px -15px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  25.01% {
+    box-shadow: inset -40px -15px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  50% {
+    box-shadow: inset -8px 0 5px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  75% {
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  100% {
+    box-shadow: inset 8px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ } }
+
+.scaled.view-2D #uranus .planet,
+.scaled.view-3D #uranus .planet {
+  box-shadow: inset -8px 0 5px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- neptune ; pos: Top */
+#neptune .pos {
+  left: 50%;
+  top: 0; }
+
+#neptune .planet {
+  animation-name: shadow-neptune; }
+
+@keyframes shadow-neptune {
+  0% {
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.5);
+    /* TOP */ }
+
+  25% {
+    box-shadow: inset 12px 0 5px rgba(0, 0, 0, 0.5);
+    /* LEFT */ }
+
+  50% {
+    box-shadow: inset 50px -15px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  50.01% {
+    box-shadow: inset -50px -15px 40px rgba(0, 0, 0, 0.5);
+    /* BOTTOM */ }
+
+  75% {
+    box-shadow: inset -12px 0 5px rgba(0, 0, 0, 0.5);
+    /* RIGHT */ }
+
+  100% {
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.5);
+    /* TOP */ } }
+
+.scaled.view-2D #neptune .planet,
+.scaled.view-3D #neptune .planet {
+  box-shadow: inset -12px 0 5px rgba(0, 0, 0, 0.5);
+  /* RIGHT */ }
+
+/* --------------------------------------------------------------------------- DEBUG 
+.pos, 
+.planet, 
+.orbit,
+.ring { animation-duration: 20s!important; }
+
+/* */
+/* --------------------------------------------------------------------------- navigation styles */
+dl.infos {
+  position: absolute;
+  display: block;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  margin-top: -90%;
+  margin-left: 90%;
+  padding-left: 100%;
+  transform-origin: 100% 100%;
+  transform-style: preserve-3d;
+  transform: rotateX(90deg); }
+
+dl.infos:before {
+  position: absolute;
+  content: '';
+  width: 15px;
+  height: 30px;
+  left: 15px;
+  bottom: 0;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+  transform-style: preserve-3d;
+  transform: skew(-45deg, 0deg);
+  box-shadow: inset 1px 1px black; }
+
+dl.infos dt {
+  position: absolute;
+  left: 50px;
+  margin-bottom: 26px;
+  bottom: 30px;
+  color: #FFF;
+  font-size: 14px;
+  text-shadow: 1px 1px 2px black; }
+
+dl.infos dd:after {
+  position: absolute;
+  left: 50px;
+  bottom: 30px;
+  width: 300px;
+  color: #FFF;
+  font-size: 22px;
+  text-shadow: 1px 1px 2px black; }
+
+dl.infos dd span:after {
+  position: absolute;
+  left: 50px;
+  bottom: 14px;
+  width: 300px;
+  color: #FFF;
+  font-size: 11px;
+  text-shadow: 1px 1px 2px black; }
+
+
+
+.apophis #apophis .infos,
+.bennu #bennu .infos,
+
+.sun #sun .infos,
+.mercury #mercury .infos,
+.venus #venus .infos,
+.earth #earth .infos,
+.mars #mars .infos,
+.jupiter #jupiter .infos,
+.saturn #saturn .infos,
+.uranus #uranus .infos,
+.neptune #neptune .infos {
+  display: block;
+  opacity: 1;
+  transform: rotateX(0deg); }
+
+.mercury #mercury.orbit,
+.venus #venus.orbit,
+.earth #earth.orbit,
+.mars #mars.orbit,
+.jupiter #jupiter.orbit,
+.saturn #saturn.orbit,
+.uranus #uranus.orbit,
+.neptune #neptune.orbit {
+  border: 1px solid rgba(255, 255, 255, 0.8); }
+
+.hide-UI h1,
+.hide-UI #data,
+.hide-UI dl.infos,
+.hide-UI #controls {
+  opacity: 0!important;
+  margin-top: -30px; }
+
+.hide-UI #data {
+  margin-bottom: -30px; }
+
+.hide-UI .orbit {
+  border: 1px solid rgba(255, 255, 255, 0.2) !important; }
+
+h1 {
+  width: 100%;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8); }
+
+h1 span, #navbar h1 a {
+  display: inline;
+  position: relative;
+  padding: 0;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#navbar, #controls, #data {
+  background: rgba(0, 0, 0, 0.4); }
+
+#navbar {
+  z-index: 99;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 16px;
+  width: 100%;
+  height: 48px; }
+
+#navbar a, #data a, #controls label {
+  color: rgba(255, 255, 255, 0.6);
+  display: block;
+  position: relative;
+  text-decoration: none; }
+
+#navbar a:hover, #data a:hover, #controls label:hover {
+  color: #FFF; }
+
+#data a.active {
+  color: #0CF; }
+
+#navbar a {
+  position: absolute;
+  top: 0;
+  height: 48px;
+  padding: 16px;
+  font-size: 14px; }
+
+#toggle-data {
+  left: 0; }
+
+#toggle-controls {
+  right: 0; }
+
+#data, #controls {
+  z-index: 99;
+  position: fixed;
+  opacity: 1;
+  top: 49px;
+  padding: 16px; }
+
+.data-close #data {
+  left: -100%; }
+
+.data-open #data {
+  left: 0px; }
+
+.controls-close #controls {
+  right: -100%; }
+
+.controls-open #controls {
+  right: 0px; }
+
+#data a {
+  margin-bottom: 1px;
+  padding: 6px 10px;
+  font-size: 18px; }
+
+#controls label {
+  opacity: .6;
+  height: 24px;
+  margin-bottom: 28px; }
+
+#controls label:hover {
+  opacity: 1; }
+
+#controls label:before {
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-top: 3px;
+  text-align: center;
+  color: #FFF;
+  z-index: 99; }
+
+#controls label span {
+  display: block;
+  margin-left: 36px;
+  padding-top: 4px;
+  font-size: 18px;
+  color: #FFF; }
+
+#controls input {
+  display: block;
+  appearance: none; }
+
+#controls input[type="radio"]:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  border: 2px solid #FFF;
+  border-radius: 16px; }
+
+#controls input:checked[type="radio"]:after {
+  content: '';
+  display: block;
+  top: 3px;
+  margin-left: 3px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background: #FFF;
+  z-index: 99; }
+
+#controls input[type="checkbox"]:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100px;
+  height: 22px;
+  border: 2px solid #FFF;
+  border-radius: 16px; }
+
+#controls input[type="checkbox"]:after {
+  content: '';
+  display: block;
+  top: 3px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background: #FFF;
+  z-index: 99; }
+
+#controls label.set-view:before {
+  font: bold small-caps 11px/20px sans-serif; }
+
+.view-3D #controls label.set-view:before {
+  content: '2D';
+  margin-left: 82px; }
+
+.view-2D #controls label.set-view:before {
+  content: '3D';
+  margin-left: 7px; }
+
+.view-3D #controls .set-view input:after {
+  margin-left: 3px; }
+
+.view-2D #controls .set-view input:after {
+  margin-left: 81px; }
+
+#controls label.set-zoom:before {
+  font: normal small-caps 18px/14px sans-serif; }
+
+.zoom-large #controls label.set-zoom:before {
+  content: '+';
+  margin-left: 82px; }
+
+.zoom-close #controls label.set-zoom:before {
+  content: '-';
+  margin-left: 7px; }
+
+.zoom-large #controls .set-zoom input:after {
+  margin-left: 3px; }
+
+.zoom-close #controls .set-zoom input:after {
+  margin-left: 81px; }
+
+/* --------------------------------------------------------------------------- transitions */
+.pos {
+  transition-property: top, left; }
+
+#solar-system, .orbit,
+.planet,
+.satelite,
+.ring {
+  transition-property: width, height, top, left, margin-left, margin-top, webkit-transform; }
+
+#sun, .icon {
+  transition-property: width, height, webkit-transform; }
+
+#solar-system,
+#sun,
+.orbit,
+.pos,
+.planet,
+.satelite,
+.ring,
+.infos,
+.icon {
+  transition-duration: .8s;
+  transition-timing-function: ease-in-out; }
+
+#solar-system,
+#sun,
+.planet,
+.satelite,
+.ring {
+  transition-delay: 0s; }
+
+.pos {
+  transition-delay: 1s; }
+
+.opening #solar-system,
+.opening #sun,
+.opening .orbit,
+.opening .pos,
+.opening .planet,
+.opening .satelite,
+.opening .ring,
+.opening .infos,
+.opening h1,
+.opening #data,
+.opening dl.infos,
+.opening #controls {
+  transition-duration: 0s;
+  transition-delay: 0s; }
+
+.opening .pos {
+  transition-delay: 0s; }
+
+h1, #data, #controls {
+  transition-property: opacity, margin;
+  transition-duration: .8s;
+  transition-timing-function: ease-in-out; }
+
+h1 {
+  transition-delay: .35s; }
+
+#data {
+  transition-delay: .7s; }
+
+#controls {
+  transition-delay: 1s; }
+
+/* --------------------------------------------------------------------------- images */
+body {
+    user-select: none;
+    background-image: url('textures/space.jpg');  
+}
+
+#universe {
+    background-image: url('textures/universe.jpg');
+}
+
+#sun {
+    background-image: url('textures/sun.png');
+}
+
+#mercury .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPBAMAAADJ+Ih5AAAABGdBTUEAALGPC/xhBQAAADBQTFRFqqWjubWzoZyZjoiFqqWiu7e1nZaToZyarqmnAAAAq6Wi2tXSurSxy8bCxL670czJ3zIDEAAAAAp0Uk5TclBQUOvj+xCAAOCI6hkAAACSSURBVAjXAYcAeP8AmZeEbeWHmZAAmTSq7M2kKZAAk2rN7O7M4ZAAdKzf7f/s/nAAjt2+u7/f/YAAXf/7u/3vzlAA6uv/u97d/aAAasv+/93+3GAAz+//3t3+ymAAWr3f/93+7lAAjOzrv73f3oAAdKzLv/3t5XAAk6rM/87qopAAmTbOzOzGKZAAmZeErsWHmZDnbFcFNI0NnwAAAABJRU5ErkJggg==); }
+
+#venus .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAGBQTFRFnHlVuYpjfWdJpX5aqoFcu4xkm3lWjnFQj3JQdmNFhGxMk3RSmXhUqoFcq4JdgGlKr4VelHVSim9OvIxkon1ZvIxkvIxkvIxkvIxkvIxkvIxkvIxkvIxkvIxkAAAAvIxkls4uvQAAACB0Uk5Tm/1srVqO0Ycro9cNHcDU6ezowbzpv8Lgx8zq5dLbAOwHjDEIAAAB2UlEQVQoz12TiZbqMAiG49Zq16TZIAF5/7e8pLXOzMVjPfEr8EPAvE+b7g9fBGO63afvn+aEjxg51ZovJLz0z7/4AQk5FmYWNfLz9RceE2LKQkBCIlkwpWDGE49JsBR1IqkgtfkLhNv4wamdSymZcgIPO5YlbAd+6AFzjoBECSKwZA0lwfUNP/eXiQCIqQoCE2gCssE9FT+OYFoPqru0H9Aima17vc10UInY3HPBijH6iAJLcJO5f3CJCUBDFwCtC6RUDNvd+BNLSlgoJaoAiUplO2+90XYcwXPOFRGlUkvSLGyb4fSRBj5mxlqYmGvV0mpwqzm63Iw5A9TMKaZWt2jw1cgvQypau5TjlGYNjuUHq3Qp55kuLbePtdlFsj5V74E1I83d8DI6BtH7jJK91zuve4PJs6Z2iu+FPO36kteaFTPo61mvzK1XM3HxdGTLgE0W7wnssq3rZN63E2thfOhCjWFV2KtdqG09azMkPn+agErdsLYLffdWSJVXbeW3RBu6Ybgew3Rb2NfK+ily9ER9t2E7R9HMMxChDqo06XbpNk08fgfZdMuiHBVbq65uXV/jrzXouy4swS52CTtc+79L9Ow351yn3wZf/y1R27LrNqxDY9efFfwHiRFWry5LGJMAAAAASUVORK5CYII=); }
+
+#earth .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAGBQTFRFGDRdAyFNIDxkQld5CCZTIztsJD1lAAAArsblO230dJfgP2vUnLbbbovAOF2vN1GERnb0Un/yW3asWH3PeY+uhKfyYXaVjafNT2WNeJ3zv9f0nrzzX4rzkLHzrcjzbZX0L9IPbAAAAAh0Uk5TfSC49Uv+4wC/XoCAAAACEUlEQVQoz12T2WKrMAxECWDC4n1fZOv//7IiaXp760cOtkaj0fT8nHXe1LLEmJd5/fk4feDGGFPeR0U/5G39H290zXohhJUi+czY9gs/lhytsM4JvvPEebJZsccH3zSldDrX6uhw8jMl/+Y33nKWibdQChhTsDRzXdbm5Y1nla1LYxAwGjsChvPmcb7xGrMVrtemQdPB0ltt6C6Z80p4y164CxpqMMcBZdRWey9O2rg9p5VlIS5ttMGCiGFUgn20xoXP6zQrJd2JAKW83q11tF5Cb9zZPE9btPIcI5AmLKXXEfoIASGchLeJ5eTCKNA7GMReu8HR26AGLqnUxFRyF3U7aqFrpQVjXrXBOJGXKUexl5fgPsgzqjpIV2sAztk4ZZ/2gVBqfb8NJH/QwcC5j1P0KTU0UOttKrUHh8Y2qL/9jcUZAsCrJTwOHYyG3so3XrJNJ7U1Xn4UfWiAW1nrPPllmqk4v1lrRQMarQ2QPKonBNmyLlScGg1Ik6C6QG8XbA3P5NlKI6EonGHoA2gY5BwZVqAAReIeyXNlyvJ9DJpWozcPU8hzJFNsvAf6pIySOooDUBA6tRBCP5OUav4OE1NSXHu9nQ+kn9LiklXbTxSJS7fvt1kAx+Wc9H57/Aty9FImms3Or+uSBOPy+LUGc/RkT6KgO0lVY57/LpHKlEnrvacV+LtE7xVkSuW8bL9W8AvOdz8ZXmQqKAAAAABJRU5ErkJggg==); }
+
+#earth .moon {
+  background-color: white;
+}
+
+#mars .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAABGdBTUEAALGPC/xhBQAAAGBQTFRFsW89lWA2jVwzsm8+qGo72oVJrW08h1gxlWA15IpMrW09jlw0l2E2nGM3v3ZC3YdK3odKyHtE75BP8JFQ8JFQ8JFQ8JFQ8JFQw3hD8JFQ8JFQ8JFQ8JFQ8JFQ8JFQAAAAe3ooYQAAACB0Uk5Tk0+hrcTz6g7P5tkiYurz49bk79XR3vvm2PH26ezi2QCQ4vSgAAABm0lEQVQoz1VSWXaEMAzLLAw7ZHMSx0vvf8uaTtvX+icQYSRbch/vGrf7ftV0v43fV+59bNP+Oo6jtXAs0/YHWg1o4TxnqyG05bn+QOt0AUIRKWVV39qyvqF1f4VTFSqiZgWuerarz6D7KwyoqkI19k5UFYfjeUHbdJzEkLQS9cLCSELDsX24cVoCVYYMHXsphQk0Aw2v0W17OCv2CPwFIWnSBDAfmzOmSt0KmZhj1ZwERLU5N72GwsyIREwCKZtIsAe/uL3NpapW42ciMTWitXI8g9uDj/aCAEZoaqRHtf8ZmduPFAtW1kz2BWntXQRUo0FhTrVcKxLTZmNbi7Fd0NR8Vhsz5x6jZMHIrJrS3Nx98WAQ5lyJsXdGGxs0eeduS5Brs1+y2dZRe0EBajc3LuaHEKRks8qFIYrC0EZb79KM31qUbCO9l44mJWyXKY9mbMnkJzAeo0Ni/3hb+WynqDGkDJHNa/Okrd8BWJpPag1gHpdO5vL6G5tnC15rRBaI6sNj/Ru25Wjez3E+LTTbvxxaRB/PdtVj+4noJ91nOp3NTB6wAAAAAElFTkSuQmCC); }
+
+#jupiter .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAABGdBTUEAALGPC/xhBQAAAGBQTFRFqpWAqpaBq5aCqpaDq5V/AAAAr4plvq+czaeBwaCBxKWH18Wv1LeZt5uAq5J6xbCZy6F2wJNmx7ekza2Lxppuz7advamUyamK0LOUq5iFtqSQzb6rsZ6Lza+Q17+m1Lqh1ZNV/gAAAAZ0Uk5TJGTA4pAAM0Px7gAADLVJREFUaN6tmgljmzoQhPHRGGN8BBmDD5n//y/fzOwu4CRt0/apuZzUfOyh2ZVE8eObY7FerlZXGw98rpbLxXffW3wLsIzLC+FDpPX/AinWq4Pd/YMfj5HhnMNqXfwjZLE8cFxfLq1xGzmP6+8c90sIjIixx2VvN36+DEHwZbX+S8iE2B/2GI8JcZkoZiPMWf8FZMFYO8Mg+z2uzuFfBaPjzHPX1eIPIcXSXb4fCRjbyq4/DjcporMs/gSyvj7COX75/dZGdalw8eOEuV1G0E99VvzMDPO9rlMJMWKq6nLE+GiQmfOlMV/8boGEMYfznnW1rqoMoI+tUYx0vGwiRBaZ4juQxV526J1+qbY95o4AwISruvFvG/7bbMxpiszi95C1zYmR0XIMw9BmXL/Thyhdd5wGOLIGUxQ5uf4dZP2mmXcLRCPEE6PNXZdw7aoEpkRouhyM5ugQzc7P4S8+MjA4M25iNO3IeD6Huu+7nGhN6dZkQzRNM7pMHlv/CiIGKO97BVd+EmKHIU7dd2VZlRxb4HLOsLZpGzlNHvuCUnzBeHt7JwX32eK6ZsbuuXNz4DVQqtRt6bTUiXInJcJ/+0iZQxZv03g/k9Ibwu14yip4Leey7BJs2ZYdndYO90YuO7rcfMixGaSYCPx3Pm27XMtd4SyjmNNSLrtyWwKVcm6fQ0uKeUyQa/EVpHibQzDOZ1ygrsERZUdLhkFfanIQlDKlVCakA/ODENMBVYDZrCw+BSQIZ3yeyr7mcFtaucuyAZyOTtPI+G9D2xJzUWAkl58h67cP3gLkBAqM6UeMKK2xns8eKYCp45Shz5oxFpeX6VJMzjpMBI4TKRxwWd/3AyEW+YGUQbEBAlmcMinIh+M8k6ewxHer5UxeQ8BhJ36ey9OprBMpll/2zVN7kJU9EJleJdDjYpL8CoHyXlWf6KagaMiWsu8THOKhfzpHL5EXuAdcXzSoTmcQ2bJ4gayuqiCoTueJYph3JlmPz1TTQRYRhsYgzLe+rzON7RNFp5qUfzWHrNlYURSp5KScg6UXCH+fSqQa3J57ipnFhhCyakadlJwooV01lpf1DKK+0JUXcsG7R2adwxrlWEJwODphzHVteG+gDij2xOBW2T7RYRPEDLldpIkt7oe5i2icDYLo0xSlGvMgmTVMs3Z4EWmakrJKjvoYT2NBVg8rhqpRfBu06cSQu+PONAJT/MSfaJepGiD1rBRI1WBHzrRlq07tugrIQr3JxRk2nzNECV5TKtMWZlhKlmxyX1/LX3ZTXg6eMCZBV1Wl2eRcTSiL0RCHmHBQ0hPvnBCGhymGX5zsBTCdZO05eHVmTmO6Mp8tKFuagqm3Mkhx8NQyS567MTNxVRpz4mVpSCkEQCRTffMQwwsBVRSRYYYRQkohCFqH6z4MIWQXpaPOpSaKDEB+yRJGX9mg2NSuy8/nzin83gcElLUgq2gdPCQzysBia0rJqDC1TkZSpJRo9WiJF9CddR2VQ1aCWE8tf7Xxhqdn59D2ctL5/RQxOen1+XyKGdQrNs9Zpebb8+gvQtYG2bPHkWZYGI3HuPY0AQkgiqe2QoPfKTg5S9e8pnk6t8dLZZA1IMsJMlJCloankgfGS/hLSy9z1Um/cmvgtsEqdDQc6DqhLYQsAXGGQXIdd4LrD1EIldBpunqp9DrZPDUFRXTq0WFWdKj5kFwEZYKwO+lYR+uwxPTWmtS2Raox3ifFW5ngYqCpBEci1UKhmWKtKgtWOIcfxWJmSabIsi5YYnqdNa+xdCjypTqM4Lk97zIQQtyOthiEhXhRWNwfajsJycwWBlL3T5glmX6UAJqWmeeQDfzJ5IfBMX+bnw1yw5plaYbcLoqJainMQRmy/IokM3nHZy+dPJ9KN2RGkdpYpg1P95dBOBWv5i3IQU3BBiR3+Na3wzyVXQkHZrRRhCmVEueopTY/n3PIShCLO/KXdYdVgeUHLRsFXWrpFJ+oNf5gImY9QOlKepbOofbg/e0wjEFZFQe3BBB5iQSFH/qTPTYeF80ZeQIprTmjDvB8mkE8AxLLdBuRL4KxRecLH1kZ9YLdKaG9y3KliX6YOqCL8/bLSDKVH05bVkgtKtlMCvIQhVORpainGf2gDkeKMSAxeWkPi1NwO4z5u5VP6znOs9bDVnzs8wQxUYG/aEethm3QBxdw1lDVXtRfqgcxJ28F3sNdngP4NRbKlfXFgsCSrVKYV9Y1n/qG5Rt+KcNM0Y0z9d3oh0ef8crvU8uG33JRzkIPyNUzmAvbzgJPTA8OZgwqqWZntuWBhWSI8gkYQlcq/qbJ0asZ0bYzroU2zDAZaQgp2eaixULRr7paueYNlxf0yXlqY9wKmzHRGqKtVotd2H6ZDMF9J+pGUpcmhwEIimxBgwChpZeiHARQojZzlRLZKFpLHwpruVgXwTDxoi0kyV943SW5kR0ofjmnjMKOMn1+wfCVliEchW3V2P4D9YQJrlho2sMyXt2WH52s7Wubk8PY20tL+26WZZ7VsaoqtFlz2Wy0/4Ar6Io5U8pqUayNdg1QySEmJktAMHIV2ayp8x7+AmTlkA2W/NRaqgkt2W6TJQAFE55K7j1EKId4Rl17mlq31g+ez2HTaAkhl5sgzZ3qlG2BVqm+cM1B8e+SJbJWbslSkPO/7X1qSj57NOveBrzPMKgniokgdwzeT69bhgZovntSM93wlTsIbBFFqU01n+Oa2HqbVEYK21gXi8ldoPjqk5HhBhcN6MXpNWp27AwZ3Oclx8uMzxnZgz+Xc4ctih+WXRNkxx6w5XW0F8g42wrLUKlSVmuB0GnLI0rNpDiYOJZrtqJGt7KamyLInb0GMYjLNskYhUKxwIZHzwVoYkoTU/taSPMn+jaYgwWbu4vNndY/Bglbdju+RfMvpSpptc741xIEWcLYCIPWoZXXWkY+Wo9WfarFnW0qVl2YjBEVDplzx3+Un7TUrGxKMsG5CdEBnVULKsUI9UdRD3UbVBahwYw7G25CbjPIziE7YHySdMwBkghJJnG0AXOXKsAI9arOhHmaqSyigXyzpUP4y7OYAA9Oo3WqTLFIS0OVYdyPpNrwhf2oBaSZFBB0kL50WEu+JohT7jJHGHCwFEy6Y85VBqZTliEg2v+shIG3KBqyyXdytJTnYsu2gTfCTBT/er+3x77VPqo+2WJm5hepvSYrf67UIwjTThC1KrYwXV4nf3no5yxZ01FnKq+fnc0aiSblkxK09UaXTuuP7bgltYwl9sEWpnOKp4C/aPCmrCUtGw7XASq06ee4J63a6nZ4I7wYNwtEkSmbF1vcHM4gvBFpZDvpJqG9fa19vugWOlnTHUdDVtO2B3uvWex3kxHmr8asgde0eK6yVbIM+eglbko5xqXTfVjHRci07fFDB3APU7CZm+6R0o1+bExsSElUlJwso2lNrRdymB1/WMt1nW9FHQ6+UeQJtvPUamTV7h4+bIhh2bTwJ1VKFTGmOSmwQ6ct+y03cNYvm2oHP6e8XdyW3TwuZpO8hti0mvdJ8z5budHssUwWwcbrphoTLI5DLzHxQ8M8wRrFn7GRNbpzyVYnXU45x+nK1lfw+/3i40anH+rKZxH93X1GCdKd279ZLaw1guxsTOPmhmhx/WHL1v11NSFr3F1uSkyf8Tt3SHokUqXd2pQtk5NM2cdWxOHjlq32U/30mCLT2AwxhzXNV5SjpFPimKOpiT0o34r4tI2+PLxQjpFlssUpTfxw1/Y/20G0SNYjsQRMkJmzXg4EVpFgotyOwswonsdN2NPY3pUrvjRzbseh+PJowydLnDHqKGmkjMNzTKzjkc2J7JC4VNsJUvzkkOZwnVHYHMtrVr4mBZglmhpC5oB1sFXMEDAWPz1uuh4+U4RxrbGkazwR3GuaOUebiYbYz4L+xcHZ9HiCtfqBsUp5byZVbiLXbIIetTk+xmP9yyPA6SmI8ez3EqmmC4YpmynbdJ6l3a2vGZ8PM+eQSxwxszo3s2kyXluD2m0nc/LUJ8YXx7KjiPlhu1MgA8dxUtKCTRBiSNqv+8+Mrw6YgzI9q3Cxhwhum3G2jEbMKH4q950D5vmsfH0mQrvgm5mX+M+NwB/8/1yL7x76zxXm5gpgp/o3x2waQzQB8dPl7x76jy6LJ1RuYRQ2FL16zgCbi59g3m5xKPPtBzFmD/UYJJ7MsMODzWYecWesir95pCQqzOsTN4+xed5cJjNut/XfPBzz4QElf3hozPDbxnJbRtwef/NwjD2DM1ljj4xw8Ojl8JJ+j8fjbx/zsQeWZo90xTgYZJSGx+pfHljyR6+urwB86kEpfcFp9T8/evX6ENlh/DgY6f96iOzlcTi7ee1h/cnjcP8BkM+p2RQxTewAAAAASUVORK5CYII=); }
+
+#saturn .planet {
+  background-image: url(data:image/png;base64,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); }
+
+#uranus .planet {
+  background-image: url(data:image/png;base64,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); }
+
+#neptune .planet {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA3CAMAAACfBSJ0AAAABGdBTUEAALGPC/xhBQAAAGBQTFRFZoGyU2ybWHKiU2yZV3CgVm+eVm+dV3GhVG2bAAAAmLjslbbqk7ToZIO3aovBZ4e7cJTMkLHmbI/FYX+yXnusWnWlja7kiavhc5fRg6bdhqjfeZ3WgKTbdprUfqHZe5/XTjN33QAAAAp0Uk5T82DQILiggOhMAI3C2HIAAAPgSURBVEjHjZaLVqNAEEQxkoAmIAYIb/j/v9yuqp4BNetum8R4Dtfq6elX8vbE8kt6apsWdkov+bNHkp/QOWvbpqlhTQM6O+f/5F4Mag0qPmSFwUBffuXyLEBleaeVpaNZ/lfuNTWoMMSYqur7pTerqjtQI9PX51yekSICW2DTsvTV/U7yKLlzFxP7gJIAMZPZAlSal5/cuW0oFigA9t62jSi9bdrzdw4YKTw6TfrcgNkX+wpvywOYRCcd29YNLzy+8su6umRvYB1cFZfjbMD4FF6rPmR0lr6aYr5zrxmxBWpusz7nnQNYlUWbvUYubS2ScjJgMxD/2MH+/lG3aeByHs6xmTaY2R/DwL94UESnj56Co5cW/wM2DuMo3N5z8NWyB4KZuJe2LuglqIEUbNhtlq/IuwqCL+SypvDDyb9h6Dqj8BpHvgdydoc6YZOBy1t5KTnY2BkI6/gDZXELr988zY07Q245yAE7GhQRG+QPU7VozsbRzckxONZ1j91cGorh9o3L3hK6aVm5Omfe2eOfZvglshsV1G0Ld5gnF7qJpJoVC8p93m4gRUNS14iaWsBdkvToJgQld7uRjCDzgLVojtZNmpwQTXDrzn2Cu15vDhvIE+p8POAp0S2Qm3l1D9e7wggqOkrThQdsWnJL5HAH0rte39/fAUZuVmB6BibohXtwvZu4d+eMHDzXvnKLH5B3/l3vU5hu8AvXRy44+lWvG0NuH7gi6s2Bo6PCwHVDyG1dfCHO7h2NyxMmCN5iOJVpIWFUSsmpcS4mWoioru/xCAmq3BZ3snypwcWL8JuHIl4Pcp37OakgrMckFwsMywh+oikMI2/iEbIsFgTzs1dYLlYPTShbNbChe8RCwuEcw/mm2Clyrz8JsuMOLNZDAVLMK16cdSbVu2W2WrvVYaz3HTMvvFH47Z3VX4qyNykLjY2gNQR1bxPhCryK2EHZzyyi08YjTmjP86HJhCYhrj/0M+ufjIwlG2OqQhyjDfHqvPhq75+MjA0jVu+ssA7sGV/a7jSFbpbF+aCxogGxBXBW9/agqH169wzzyMeY0m3dfEqEoUQnUOmSS4/zT9OWU5qp6hMmjsItrAfNYf5xkn0I3CaN5n1qhoLlblA3+ff57iCig55+mNUcfhzTdXP5sU94cBZ2rYnbhLQnbjEVl5/zk/0Faw9Kaln21Wfa1KQxh57tL9qXdI991UdQ/4ar1vN9Ke5nZRkWNC5pKPAKa6GlV/7LPlhD1Ha7SssgpAyCj3/bB+P+GdfP0n7ugGzx/WX/9H0XO3Khfdd+FVhbm3/su0/2a9uw/2e/3vf59td9/g/87+wnzrJ1rQAAAABJRU5ErkJggg==); }
+
+/* --------------------------------------------------------------------------- responsive styles */
+@media screen and (max-width: 299px) {
+  #universe {
+    font-size: 20%; } }
+@media screen and (min-width: 300px) {
+  #universe {
+    font-size: 24%; } }
+@media screen and (min-width: 500px) {
+  #universe {
+    font-size: 36%; } }
+@media screen and (min-width: 600px) {
+  #universe {
+    font-size: 44%; } }
+@media screen and (min-width: 760px) {
+  #universe {
+    font-size: 58%; } }
+@media screen and (min-width: 1000px) {
+  #universe {
+    font-size: 73%; }
+
+  #navbar, #controls, #data {
+    background: transparent; }
+
+  #navbar a {
+    display: none; }
+
+  h1 {
+    font-size: 22px;
+    margin-top: 8px; }
+
+  #controls {
+    padding-right: 32px;
+    top: 12px; }
+
+  #data {
+    position: fixed;
+    top: inherit;
+    bottom: 0;
+    width: 100%;
+    text-align: center; }
+
+  #data a {
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 15px; }
+
+  .data-open #data, .data-close #data {
+    left: 0px; }
+
+  .controls-open #controls, .controls-close #controls {
+    right: 0px; } }
+@media screen and (min-width: 1300px) {
+  #universe {
+    font-size: 100%; } }
+@media screen and (min-width: 1600px) {
+  .zoom-close .scale-d #solar-system {
+    margin-left: -120%; } }
