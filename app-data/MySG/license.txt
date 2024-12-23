@@ -1,4 +1,4 @@
 {
-  "enable":true,
-  "message":"None"
+  "enable": fa;se,
+  "message": "This app needs core updates, please update the libnaries first!"
 }
